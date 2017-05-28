@@ -572,6 +572,7 @@ public class NOAAWeatherXMLHandler extends DefaultHandler {
 			putCombos("rain showers",15);
 			putCombos("showers rain",15);
 			putCombos("thunderstorms",23);
+			putCombos("t-storms",23);
 			putCombos("snow",33);
 			putCombos("rain/snow",38);
 			putCombos("snow/rain",38);
@@ -780,6 +781,7 @@ public class NOAAWeatherXMLHandler extends DefaultHandler {
 			CONDITIONTRANSLATIONS.put("snow showers in vicinity fog/mist",31);
 			CONDITIONTRANSLATIONS.put("snow showers in vicinity fog",31);
 			CONDITIONTRANSLATIONS.put("thunderstorm",21);
+			CONDITIONTRANSLATIONS.put("t-storms",21);
 			CONDITIONTRANSLATIONS.put("thunderstorm rain",21);
 			CONDITIONTRANSLATIONS.put("light thunderstorm rain",21);
 			CONDITIONTRANSLATIONS.put("heavy thunderstorm rain",21);
