@@ -101,7 +101,7 @@ public class SevenTimerJSONHandler {
 						Time tNow = new Time();
 						tNow.setToNow();
 						
-						if (Integer.parseInt(Build.VERSION.SDK) < Build.VERSION_CODES.FROYO) {
+						if (Build.VERSION.SDK_INT < Build.VERSION_CODES.FROYO) {
 						    System.setProperty("http.keepAlive", "false");
 						}
 	

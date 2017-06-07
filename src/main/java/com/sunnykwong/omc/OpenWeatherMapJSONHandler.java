@@ -64,7 +64,7 @@ public class OpenWeatherMapJSONHandler {
 			public void run() {
 				HttpURLConnection huc = null; 
 				try {
-					if (Integer.parseInt(Build.VERSION.SDK) < Build.VERSION_CODES.FROYO) {
+					if (Build.VERSION.SDK_INT < Build.VERSION_CODES.FROYO) {
 					    System.setProperty("http.keepAlive", "false");
 					}
 					OpenWeatherMapJSONHandler OWMhandler = new OpenWeatherMapJSONHandler();

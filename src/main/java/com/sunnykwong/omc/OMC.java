@@ -83,7 +83,7 @@ import android.widget.Toast;
  */ 
 public class OMC extends Application { 
 
-	static final String TESTVER = "Alpha 2";
+	static final String TESTVER = "Alpha 3";
 	static final boolean FREEEDITION = false;
 	static boolean ALTRENDERING=true;
 	static final ArrayList<ICAOLatLon> ICAOLIST = new ArrayList<ICAOLatLon>();
@@ -324,7 +324,7 @@ public class OMC extends Application {
     	OMC.CURRENTLOCATIONPRIORITY = Integer.parseInt(OMC.PREFS.getString("locationPriority", "3"));
 		// Little-known observation - IPC binder raised for app widgets around Jelly Bean...
     	// So, for modern devices, the old rendering method is actually much more efficient.  Go figure!
-    	if (Integer.parseInt(Build.VERSION.SDK) >= 16) {
+    	if (Build.VERSION.SDK_INT >= 16) {
     		OMC.ALTRENDERING = OMC.PREFS.getBoolean("AltRendering",false);
 	    	if (!OMC.PREFS.contains("AltRendering")) {
 				if (OMC.DEBUG) Log.i(OMC.OMCSHORT + "Pref","SETUPPREFS - JB+ Device: Use Normal Rendering.");
@@ -357,7 +357,7 @@ public class OMC extends Application {
     	} catch (IOException e) 
     	{}
 		// Work around pre-Froyo bugs in HTTP connection reuse.
-		if (Integer.parseInt(Build.VERSION.SDK) < Build.VERSION_CODES.FROYO) {
+		if (Build.VERSION.SDK_INT < Build.VERSION_CODES.FROYO) {
 		    System.setProperty("http.keepAlive", "false");
 		}
 		

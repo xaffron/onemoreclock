@@ -4,7 +4,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.+'
+        classpath 'com.android.tools.build:gradle:2.3.2'
     }
 }
 
@@ -39,7 +39,7 @@ android {
         targetCompatibility JavaVersion.VERSION_1_7
     }
     defaultConfig {
-        minSdkVersion 14
+        minSdkVersion 4
         targetSdkVersion 14
     }
     productFlavors {

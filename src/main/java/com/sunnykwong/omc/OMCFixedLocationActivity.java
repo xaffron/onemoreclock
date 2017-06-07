@@ -81,7 +81,7 @@ public class OMCFixedLocationActivity extends Activity {
 					public void run() {
 						HttpURLConnection huc=null;
 						try {
-							if (Integer.parseInt(Build.VERSION.SDK) < Build.VERSION_CODES.FROYO) {
+							if (Build.VERSION.SDK_INT < Build.VERSION_CODES.FROYO) {
 							    System.setProperty("http.keepAlive", "false");
 							}
 							URL url = new URL("http://maps.googleapis.com/maps/api/geocode/json?sensor=false&address="+sSearchText);
