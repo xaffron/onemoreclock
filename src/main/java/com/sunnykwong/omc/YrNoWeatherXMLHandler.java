@@ -28,7 +28,7 @@ public class YrNoWeatherXMLHandler extends DefaultHandler {
 	public static final long MINTIMEBETWEENREQUESTS = 82800000L; //23 hours
 	public static final long MINRETRYPERIOD = 3660000L; //One hour + change
 	
-	public static final String URL_LOCATIONFORECASTLTS = "http://api.met.no/weatherapi/locationforecastlts/1.3/?lat=";
+	public static final String URL_LOCATIONFORECASTLTS = "https://api.met.no/weatherapi/locationforecastlts/1.3/?lat=";
 	public static final int[] CONDITIONTRANSLATIONS = new int[] { 0, // 0
 			1, // 1 SUN
 			3, // 2 LIGHTCLOUD

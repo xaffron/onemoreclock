@@ -1,6 +1,6 @@
 ! Author: Greg Thompson  NCAR/RAP
 !         please mail corrections to gthompsn (at) ucar (dot) edu
-! Date: 16 Dec 2013
+! Date: 14 May 2017
 ! This file is continuously maintained at:
 ! http://www.rap.ucar.edu/weather/surface/stations.txt
 !
@@ -40,10 +40,11 @@
 !23456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 !
 
-ALASKA             16-DEC-13                                                  
+ALASKA             16-DEC-13
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 AK ADAK NAS         PADK  ADK   70454  51 53N  176 39W    4   X     T          7 US
 AK AKHIOK           PAKH  AKK          56 56N  154 11W   14   X                8 US
+AK AKUTAN           PAUT               54 09N  165 36W   25   X                7 US
 AK AMBLER           PAFM  AFM          67 06N  157 51W   88   X                7 US
 AK ANAKTUVUK PASS   PAKP  AKP          68 08N  151 44W  642   X                7 US
 AK ANCHORAGE INTL   PANC  ANC   70273  61 10N  150 01W   38   X     T  X  A    5 US
@@ -80,6 +81,7 @@ AK CHANDALAR LAKE   PALR  WCR          67 30N  148 29W  585   X                7
 AK CHEVAK           PAVA               61 32N  165 36W   23   X                7 US
 AK CHIGNIK BAY      PAJC  AJC          56 19N  158 22W   15   X                7 US
 AK CIRCLE/PAFC RFC  PACR  CRC          65 50N  144 04W  182   X              R 7 US
+AK CLARKS POINT     PFCL  CLP          58 50N  158 32W   24   X                7 US
 AK COLD BAY         PACD  CDB   70316  55 12N  162 43W   30   X     T  X  A    5 US
 AK CORDOVA          PACV  CDV   70296  60 30N  145 30W   12   X     T     A    6 US
 AK DEADHORSE        PASC  SCC          70 12N  148 28W   15   X     T     A    6 US
@@ -146,6 +148,7 @@ AK KOLIGANEK        PAJZ  JZZ          59 44N  157 16W   82   X                8
 AK KOTZEBUE         PAOT  OTZ   70133  66 52N  162 35W    3   X     T  X  A    5 US
 AK KOYUK            PAKK  KKA          64 56N  161 09W   47   X                7 US
 AK KUPARUK          PAKU  UBW          70 19N  149 35W    2   X           S    7 US
+AK KWETHLUK         PFKW               60 48N  161 26W    8   X                7 US
 AK MANLEY HOT SPRIN PAML  MLY          65 00N  150 39W   81   X                7 US
 AK MANOKOTAK        PAMB  MBA          58 59N  159 03W   16   X                7 US
 AK MARSHALL         PADM               61 52N  162 02W   31   X                8 US
@@ -166,11 +169,13 @@ AK NIKOLAI          PAFS  FSP          63 01N  154 21W  126   X                7
 AK NOME             PAOM  OME   70200  64 30N  165 26W   11   X     T  X  A    5 US
 AK NOME/88D/PAEC                       64 31N  165 18W   16      X             6 US
 AK CHULITNA         PAEC  AEC          62 53N  149 50W  381   X                7 US
+AK NAPAKIAK         PANA               60 41N  161 59W    5   X                7 US
 AK NORTHWAY         PAOR  ORT   70291  62 58N  141 56W  523   X     T     A    6 US
 AK NOATAK           PAWN  WTK          67 34N  162 59W   30   X                7 US
 AK NOORVIK          PFNO  D76          66 49N  161 01W   17   X                7 US
 AK NUIQSUT          PAQT  AQT          70 13N  151 00W   12   X     T     A    6 US
 AK NUIQSUT VILLAGE  PALP               70 20N  150 56W    5   X                7 US
+AK NUNAPITCHUK      PPIT  16A          60 54N  162 26W    7   X                7 US
 AK OLIKTOK POINT    POLI  OLI   70063  70 30N  149 53W    5   X                7 US
 AK PALMER           PAAQ  PAQ   70274  61 36N  149 05W   73   X     T     A    6 US
 AK PAXSON           PAXK  PXK          63 02N  145 30W  809   X                7 US
@@ -187,6 +192,7 @@ AK PORTAGE GLACIER  PATO  POR          60 47N  148 51W   31   X           A    7
 AK PROSPECT CREEK   PAPR  PPC          66 49N  150 39W  335   X                7 US
 AK PRUDHOE BAY      PAUD  PUO          70 15N  148 20W   12   X                7 US
 AK PUNTILLA LAKE    PAPT  PTI   70249  62 06N  152 43W  558   X                7 US
+AK QUINHAGAK        PAQH               59 45N  161 51W   13   X                7 US
 AK REG DOG          PARD               68 02N  162 54W  297   X                7 US
 AK REG DOG          PADG  DGG          68 02N  162 54W  297   X                7 US
 AK RUBY             PARY  RBY          64 44N  155 28W  199   X                7 US
@@ -198,6 +204,7 @@ AK SCAMMON BAY      PACM  SCM          61 51N  165 34W    4   X                7
 AK SELAWIK          PASK  WLK          66 36N  160 00W    8   X                7 US
 AK SELDOVIA         PASO  SOV          59 27N  151 42W    9   X           A    7 US
 AK SEWARD           PAWD  SWD   70277  60 07N  149 25W   23   X           A    7 US
+AK SHAGELUK         PAHX               62 42N  159 34W   24   X                7 US
 AK SHAKTOOLIK       PFSH  2C7          64 22N  161 13W    7   X                8 US
 AK SHISHMAREF       PASH  SHH          66 16N  166 05W    2   X                7 US
 AK SHUNGNAK         PAGH  SHG          66 53N  157 10W   60   X                8 US
@@ -209,6 +216,7 @@ AK SLANA            PADT  DDT          62 43N  143 51W  730   X                7
 AK SLEETMUTE        PASL  SLQ          61 43N  157 09W   55   X                7 US
 AK SNOWSHOE LAKE    PALK  LLK          62 02N  142 40W  735   X                7 US
 AK SOLDOTNA         PASX  SXQ          60 29N  151 02W   32   X                7 US
+AK SOUTH NAKNEK     PFWS               58 42N  157 00W   49   X                7 US
 AK SPARREVOHN       PASV  SVW   70235  61 06N  155 34W  484   X     T          7 US
 AK ST GEORGE        PAPB  PBV          56 35N  169 40W   35   X           A    7 US
 AK ST MICHAEL       PAMK               63 29N  162 07W   28   X                8 US
@@ -221,6 +229,7 @@ AK TALKEETNA PROF         TLK   70252  62 19N  150 25W  137            W       8
 AK TANANA           PATA  TAL   70178  65 10N  152 06W   67   X     T     A    6 US
 AK TATALINA AFS     PATL  TLJ          62 54N  155 58W  294   X     T          6 US
 AK TELLER           PATE               65 14N  166 20W   90   X                8 US
+AK POINT THOMPSON   PAAD               70 08N  146 17W    8   X                8 US
 AK TIN CITY AFS     PATC  TNC   70117  65 34N  167 55W   83   X     T          6 US
 AK TOGIAK           PATG  TOG          59 03N  160 23W    4   X                7 US
 AK TOKSOOK BAY      PAOO               60 32N  165 07W   18   X           W    7 US
@@ -241,7 +250,7 @@ AK YAKUTAT          PAYA  YAK   70361  59 31N  139 40W   11   X     T  X  A    5
 AK ALASKAN ARTCC    PZ74  Z74          60 09N  164 17W    1         A          8 US
 AK ALASKAN ARTCC    PZ76  Z76          65 15N  134 39W  647         A          8 US
 
-ALABAMA            16-DEC-13
+ALABAMA            24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 AL ALABASTER        KEET  EET          33 11N  086 47W  173   X     T     A    3 US
 AL ALBERTVILLE MUNI K8A0  8A0          34 14N  086 15W  315   X                7 US
@@ -250,6 +259,7 @@ AL ANDALUSIA/OPP AR K79J  79J          31 19N  086 24W   94   X           W    8
 AL ANNISTON         KANB  ANB          33 35N  085 51W  183   X     T     A    6 US
 AL AUBURN UNIV. (AM KAUB  AUB          32 36N  085 30W  198   X                7 US
 AL AUBURN OPELIKA A KAUO  AUO          32 37N  085 25W  236   X                7 US
+AL BESSEMER         KEKY  EKY          33 19N  086 56W  214   X                7 US
 AL BIRMINGHAM       KBHM  BHM   72228  33 34N  086 45W  197   X     T     A    4 US
 AL BRMNGHM/ALABASTR KBMX  BMX   72230  33 10N  086 46W  197      X     X     F 8 US
 AL OZARK/CAIRNS AAF KOZR  OZR          31 17N  085 43W   93   X     T          6 US
@@ -260,6 +270,7 @@ AL CULLMAN/FOLSOM F KCMD  CMD          34 16N  086 51W  294   X           W    7
 AL DECATUR          KDCU  DCU          34 39N  086 57W  176   X           A    7 US
 AL DEMOPOLIS        KDYA  DYA          32 28N  087 57W   34   X                7 US
 AL DOTHAN           KDHN  DHN          31 19N  085 27W  113   X     T     A    6 US
+AL ENTERPRISE       KEDN  EDN          31 18N  085 54W  110   X                7 US
 AL EUFAULA          KEUF  EUF          31 57N  085 08W   87   X           W    8 US
 AL EVERGREEN        KGZH  GZH          31 25N  087 03W   78   X           A    7 US
 AL FAIRHOPE         KCQF  CQF          30 28N  087 53W   28   X           W    8 US
@@ -273,21 +284,27 @@ AL GREENVILLE       KPRN  PRN          31 51N  086 37W  138   X                8
 AL GULF SHORES      KJKA  JKA          30 17N  087 40W    5   X                7 US
 AL HALEYVILLE       K1M4  1M4          34 17N  087 36W  284   X                8 US
 AL HUNTSVILLE       KHSV  HSV   72323  34 39N  086 47W  191   X     T     A    4 US
+AL HUNTSVILLE/WFO   KHUN               34 43N  086 39W  191                  F 8 US
 AL HUNTSVILLE/MADIS KMDQ  MDQ          34 52N  086 33W  230   X           W    8 US
 AL HYTOP/88D        KHTX  HTX          34 56N  086 05W  536      X             8 US
 AL JASPER/WALKER    KJFX  JFX          33 54N  087 19W  148   X                8 US
 AL LOWE AHP/FT. RUC KLOR  LOR          31 21N  085 45W   74   X                7 US
 AL MAXWELL AFB 88D  KMXX  MXX          32 32N  085 47W  122      X             8 US
 AL MAXWELL AFB/MGM  KMXF  MXF          32 22N  086 22W   51   X     T          6 US
+AL MARION           KA08  A08          32 31N  087 23W   68   X                7 US
 AL MOBILE/BROOKLEY  KBFM  BFM          30 37N  088 04W   20   X     T     A    7 US
 AL MOBILE/BATES     KMOB  MOB   72223  30 41N  088 15W   63   X  X  T     A  F 3 US
 AL MONTGOMERY       KMGM  MGM   72226  32 18N  086 24W   63   X     U     A    4 US
 AL MUSCLE SHOAL     KMSL  MSL          34 45N  087 36W  164   X     U     A    6 US
 AL MONROEVILLE      KMVC  MVC          31 27N  087 21W  128                    8 US
+AL PELL CITY        KPLR  PLR          33 34N  086 15W  148   X                8 US
 AL PHI OIL PLAT     KRAM  RAM          29 03N  088 05W   10   X           H    8 US
+AL PRATTVILLE       K1A9  1A9          32 26N  086 31W   69   X                8 US
 AL REDSTONE ARSENAL KHUA  HUA   74001  34 41N  086 41W  209   X           W    8 US
 AL SCOTTSBORO       K4A6  4A6          34 41N  086 00W  198   X                8 US
+AL SELMA            KSEM  SEM          32 21N  086 59W   51   X                8 US
 AL SEMMNES VOR      KSJI  SJI          30 44N  088 22W   63         V          8 US
+AL SYLACAUGA        KSCD  SCD          33 10N  086 18W  174   X                8 US
 AL TALLADEGA        KASN  ASN          33 34N  086 03W  162   X     T          8 US
 AL TROY             KTOI  TOI          31 51N  086 01W  118   X     T     A    7 US
 AL TUSCALOOSA       KTCL  TCL          33 13N  087 37W   49   X     T     A    6 US
@@ -298,7 +315,7 @@ AL FAIRHOPE         K4R4  4R4          30 28N  087 53W   28   Z                8
 AL HUNTSVILLE/MADIS KM82  M82          34 51N  086 33W  231   Z                8 US
 AL VIOSCA KNOLL768  KVOA  VOA          29 14N  087 47W   53   X                9 US
 
-ARKANSAS           30-APR-13
+ARKANSAS           24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 AR ARKADELPHIA      KADF  ADF          34 06N  093 04W   56   X     T          8 US
 AR BATESVILLE       KBVX  BVX          35 44N  091 39W  141   X           W    7 US
@@ -309,6 +326,7 @@ AR BLYTHEVILLE      KHKA  HKA          35 56N  089 50W   78   X           A    7
 AR BLYTHEVILLE      KBYH  BYH          35 58N  089 57W   78   X           A    7 US
 AR CAMDEN           KCDH  CDH          33 37N  092 46W   35   X                8 US
 AR CLINTON MUNI     KCCA  CCA          35 36N  092 27W  157   X                8 US
+AR CONWAY           KCXW  CXW          35 01N  092 33W   85   X                8 US
 AR CORNING          K4M9  4M9          36 24N  090 39W   90   X                8 US
 AR DE QUEEN         KDEQ  DEQ          34 03N  094 24W  106   X           A    7 US
 AR DEQUEEN PROFILER KDQU  DQU   74752  34 06N  094 17W  195            W       8 US
@@ -343,7 +361,7 @@ AR ARKADELPHIA      KM89  M89          34 06N  093 04W   56   Z                9
 AR FORT CHAFFEE                 69050  35 10N  094 48W  143   Z                8 US
 AR MENA INTERMTN    KM39  M39          34 33N  094 12W  329   Z                8 US
 
-ARIZONA            30-APR-13
+ARIZONA            24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 AZ PHOENIX/SKY HRBR KPHX  PHX   72278  33 26N  112 01W  336   X     U     A    0 US
 AZ TUCSON           KTUS  TUS          32 08N  110 57W  776   X     U     A    2 US
@@ -368,6 +386,8 @@ AZ GRAND CANYON     KGCN  GCN   72378  35 57N  112 09W 2016   X     T     A    4
 AZ GRAND CANYON/VAL K40G  40G          35 38N  112 09W 1830   X                7 US
 AZ KINGMAN          KIGM  IGM   72370  35 15N  113 56W 1032   X           A    7 US
 AZ LAKE HAVASU CITY KHII  HII          34 34N  114 22W  238   X                8 US
+AZ MARANA           KAVQ  AVQ          32 24N  111 13W  620   X                7 US
+AZ MARICOPA AK-CHIN KA39  A39          32 59N  111 55W  398   X                7 US
 AZ MESA/FALCON FLD  KFFZ  FFZ          33 28N  111 43W  424   X                7 US
 AZ NOGALES          KOLS  OLS          31 25N  110 51W 1184   X     T     A    6 US
 AZ PAGE             KPGA  PGA   72371  36 55N  111 27W 1307   X     T     A    3 US
@@ -384,6 +404,7 @@ AZ SAN SIMON        KSSO  SSO          32 16N  109 15W 1097         V          8
 AZ SCOTTSDALE       KSDL  SDL          33 37N  111 55W  447   X     T     A    7 US
 AZ SEDONA           KSEZ  SEZ          34 51N  111 47W 1473   X     T          8 US
 AZ SHOW LOW MUNICIP KSOW  SOW          34 16N  110 00W 1954   X     S          6 US
+AZ SPRINGERVILLE    KJTC  JTC          34 08N  109 19W 2151   X                8 US
 AZ ST. JOHNS        KSJN  SJN          34 31N  109 23W 1745   X     V     A    6 US
 AZ TUBA CITY        KTBC  TBC          36 07N  111 16W 1538         V          8 US
 AZ TUCSON/WFO       KTWC  TWC   72274  32 14N  110 57W  752            X     F 8 US
@@ -405,7 +426,7 @@ AZ SHOW LOW         KE03  E03          34 15N  110 02W 1955   Z                8
 AZ TUBA CITY        KT03  T03          36 06N  111 23W 1400   Z                8 US
 AZ WINDOW ROCK      KP34  P34          35 39N  109 04W 2055   Z                8 US
 
-CALIFORNIA         03-DEC-13
+CALIFORNIA         24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 CA ALAMEDA NAS      KNGZ  NGZ   74506  37 46N  122 19W    4   X                7 US
 CA ALTURAS          KAAT  AAT          41 29N  120 34W 1331   X           A    7 US
@@ -448,6 +469,7 @@ CA EL CENTRO NAF    KNJK  NJK   72281  32 49N  115 40W  -13   X     T          6
 CA EL MONTE         KEMT  EMT   74704  34 04N  118 01W   90   X                7 US
 CA EMIGRANT GAP     KBLU  BLU          39 17N  120 42W 1609   X           A    7 US
 CA EUREKA/MURRAY    KEKA  EKA   72594  40 48N  124 10W   18   X              F 8 US
+CA FALLBROOK        KL18  L18          33 21N  117 15W  216   X                8 US
 CA FORTUNA/FOT/VOR                     40 40N  124 14W  122         V          8 US
 CA FORTUNA          KFOT  FOT          40 33N  124 08W  120   X                8 US
 CA FRESNO           KFAT  FAT   72389  36 47N  119 43W  104   X     T     A    2 US
@@ -606,7 +628,7 @@ CA TUSTIN MCAS      KNTK  NTK   69016  33 42N  117 49W   17   Z                8
 CA VACAVILLE        KO45  O45          38 23N  121 57W   33   Z                8 US
 CA MARCH AFB/88D    KRIX  RIX          33 33N  117 26W  468      Z             8 US
 
-COLORADO           03-DEC-13
+COLORADO           24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 CO DENVER (DIA)     KDEN  DEN   72565  39 51N  104 39W 1640   X     U     A    0 US
 CO AKRON            KAKO  AKO          40 10N  103 13W 1421   X     V     A    4 US
@@ -623,6 +645,7 @@ CO COLORADO SPRINGS KCOS  COS   72466  38 49N  104 41W 1856   X     T     A    3
 CO CO SPNGS MEADOW  KFLY  FLY          38 57N  104 34W 2096   X           A    7 US
 CO CORTEZ           KCEZ  CEZ          37 18N  108 38W 1797   X           A    7 US
 CO CRAIG            KCAG  CAG   72570  40 30N  107 31W 1887   X           A    4 US
+CO DEL NORTE        KRCV  RCV          37 43N  106 21W 2425   X                8 US
 CO DENVER/ARAPAHOE  KAPA  APA          39 34N  104 51W 1775   X     T     A    4 US
 CO DENVER F. RANGE  KFTG  FTG          39 47N  104 33W 1675   X  X             8 US
 CO DENVER/ARTCC     KZDV  ZDV          40 11N  105 08W 1498         A          8 US
@@ -670,7 +693,8 @@ CO GUNNISON/AWRS    K2V9  2V9          38 36N  106 55W 2349   Z                8
 CO LAMAR            K4LJ  4LJ          38 05N  102 37W 1103   Z                8 US
 CO SALIDA           KS29  S29          38 31N  106 01W 2282   Z                8 US
 CO WINTER PARK      KC96  C96          40 00N  105 52W 2740   Z                8 US
-CO YUMA             KYMA               40 06N  102 43W 1261   X           W    9 US
+CO YUMA             K2V6  2V6          40 06N  102 43W 1261   X           W    9 US
+CO YUMA             KYMA               40 06N  102 43W 1261   Z                9 US
 CO FLAGLER          KFLA               39 17N  103 04W 1507   X           W    9 US
 CO KIRK             K72C               39 36N  102 34W 1280   X           W    9 US
 CO STERLING         KSTK               40 37N  103 16W 1231   X           W    8 US
@@ -681,7 +705,7 @@ CO BUENA VISTA      KAEJ               38 49N  106 07W 2422   X           W    8
 CO DELTA/BLAKE FLD  KAJZ               38 47N  108 04W 1583   X           W    8 US
 CO SALIDA           KANK               38 32N  106 03W 2293   X           W    8 US
 CO BOULDER MUNI     KBDU               40 02N  105 14W 1612   X           W    8 US
-CO ELLICOTT-B AFA   KABH               38 45N  104 18W 1840   X           W    8 US
+CO ELLICOTT-B AFA   KABH               38 46N  104 18W 1840   X           W    8 US
 CO ERIE MUNI        KEIK               40 01N  105 03W 1564   X           W    8 US
 CO FORT MORGAN      KFMM               40 20N  103 48W 1393   X           W    8 US
 CO GRANBY/GRAND CO  KGNB               40 05N  105 55W 2500   X           W    8 US
@@ -722,7 +746,7 @@ DE DOVER/ELLENDALE  KDOX  DOX          38 50N  075 26W   15      X             8
 DE GEORGETOWN       KGED  GED          38 41N  075 22W   19   X           A    7 US
 DE WILMINGTON       KILG  ILG          39 40N  075 36W   28   X     T     A    4 US
 
-FLORIDA            03-DEC-13
+FLORIDA            24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 FL APALACHICOLA     KAAF  AAF   72220  29 44N  085 02W    5   X           A    7 US
 FL BARTOW MUNICIPAL KBOW  BOW          27 56N  081 46W   39   X                7 US
@@ -731,6 +755,7 @@ FL BONIFAY TRI-CTY  K1J0  1J0          30 51N  085 36W   26   X                8
 FL BROOKSVILLE      KBKV  BKV          28 28N  082 27W   20   X           A    7 US
 FL CAPE CANAVERAL   KXMR  XMR   74794  28 28N  080 34W    3   X        X       8 US
 FL CECIL FIELD NAS  KNZC  NZC          30 13N  081 52W   25   X                7 US
+FL CLEARWATER       KCLW  CLW          27 59N  082 46W   22   X                8 US
 FL CRESTVIEW        KCEW  CEW          30 47N  086 31W   55   X     V     A    6 US
 FL CROSS CITY       KCTY  CTY   72212  29 38N  083 06W   13   X     V     A    6 US
 FL CRYSTAL RIVER    KCGC  CGC          28 52N  082 34W    3   X                8 US
@@ -768,8 +793,10 @@ FL KEY WEST         KKEY  KEY          24 33N  081 47W    5            X     F 2
 FL KEY W/BOCA CHICA KBYX  BYX          24 36N  081 42W    2      X             8 US
 FL KISSIMMEE/ORLAND KISM  ISM          28 17N  081 26W   25   X     T          7 US
 FL LA BELLE         KX14  X14          26 44N  081 26W    6   X           W    8 US
+FL LAKE CITY        KLCQ  LCQ          30 10N  082 35W   62   X                8 US
 FL LAKELAND REGIONA KLAL  LAL          27 58N  082 01W   43   X     T          7 US
 FL LEESBURG         KLEE  LEE          28 49N  081 49W   23   X     T     A    7 US
+FL LIVE OAK         K24J  24J          30 18N  083 01W   32   X                8 US
 FL MACDILL AFB/TAMP KMCF  MCF   74788  27 51N  082 31W    4   X     T          6 US
 FL MARATHON         KMTH  MTH          24 44N  081 03W    2   X     T     A    7 US
 FL MARCO ISLAND     KMKY  MKY          26 00N  081 40W    2   X           W    8 US
@@ -796,8 +823,8 @@ FL OKEECHOBEE CTY   KOBE  OBE          27 16N  080 51W   11   X                8
 FL ORLANDO          KMCO  MCO   72205  28 25N  081 20W   29   X     T     A    2 US
 FL ORLANDO          KORL  ORL          28 33N  081 20W   37   X     V     A    6 US
 FL ORMOND BEACH VOR KOMN  OMN          29 18N  081 07W    9   X     V          8 US
-FL PALM COAST       KXFL  XFL          29 28N  081 12W   10   X                8 US
-FL PANAMA CITY      KPFN  PFN          30 12N  085 41W   12   Z                8 US
+FL PALATKA          K28J  28J          29 40N  081 41W   15   X                8 US
+FL PALM COAST       KFIN  FIN          29 28N  081 13W   10   X                8 US
 FL PANAMA CITY      KECP  ECP          30 21N  085 48W   21   X     T     A    6 US
 FL PATRICK AFB/COCO KCOF  COF   74795  28 14N  080 36W    3   X     T          6 US
 FL PENSACOLA        KPNS  PNS   72222  30 29N  087 11W   38   X     T     A    6 US
@@ -811,6 +838,7 @@ FL QUINCY           K2J9  2J9          30 36N  084 33W   69   X           W    8
 FL SANFORD/ORLANDO  KSFB  SFB          28 46N  081 13W   17   X     T          6 US
 FL SARASOTA/BRADENT KSRQ  SRQ          27 24N  082 34W   18   X     U     A    6 US
 FL SEBASTIAN        KX26  X26          27 49N  080 30W    6   X           W    8 US
+FL SEBRING          KSEF  SEF          27 27N  081 21W   19   X                7 US
 FL ST AUGUSTINE     KSGJ  SGJ   99441  29 58N  081 19W    3   X                7 US
 FL ST PETERSBURG    KPIE  PIE          27 55N  082 41W    4   X     U     A    6 US
 FL ST PETERS/ALBERT KSPG  SPG          27 46N  082 38W    2   X           A    7 US
@@ -828,9 +856,9 @@ FL VENICE           KVNC  VNC          27 04N  082 26W    6   X                8
 FL VERO BEACH       KVRB  VRB          27 39N  080 25W   10   X     T     A    4 US
 FL VERO BEACH       KTRV  TRV          27 39N  080 25W   10   X     V          7 US
 FL THE VILLAGES     KVVG  VVG          28 57N  081 58W   27   X                7 US
-FL VOSIKA           KVSH  VSH          30 47N  085 36W   22   X                7 US
 FL WEST PALM BEACH  KPBI  PBI   72203  26 41N  080 06W    6   X     U     A    3 US
 FL WHITING FLD NAS  KNSE  NSE          30 44N  087 01W   61   X     T          7 US
+FL WILLISTON        KX60  X60          29 21N  082 28W   23   X                7 US
 FL WINTER HAVEN     KGIF  GIF          28 04N  081 45W   43   X           A    7 US
 FL ZEPHYRHILLS      KZPH               28 14N  082 09W   26   X                7 US
 FL ALLIGATOR REEF               99431  24 51N  080 22W    1   Z                8 US
@@ -844,6 +872,8 @@ FL EGLIN AFB              2EG          30 34N  086 19W   48   Z                8
 FL INVERNESS        KX40  X40          28 48N  082 19W   15   Z                8 US
 FL LAKE WORTH                   99405  26 37N  080 58W    5   Z                8 US
 FL MOLASSES REEF                99443  25 01N  080 37W    1   Z                8 US
+FL PALM COAST       KXFL  XFL          29 28N  081 13W   10   Z                8 US
+FL PANAMA CITY      KPFN  PFN          30 12N  085 41W   12   Z                8 US
 FL SETTLEMENT POIN              99439  26 40N  079 00W    2   Z                8 US
 FL SOMBRERO KEY                 99445  24 37N  081 52W    1   Z                8 US
 FL ST JOHNS LIGHT               99415  30 22N  081 36W    5   Z                8 US
@@ -851,7 +881,7 @@ FL VENICE PIER                  99422  27 04N  082 33W    4   Z                8
 FL HURLBERT         KQHY               30 24N  086 39W    8   X                8 US
 FL HURLBERT         KQBL               30 24N  086 39W    6   X                8 US
 
-GEORGIA            30-APR-13
+GEORGIA            24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 GA ALBANY           KABY  ABY   72216  31 32N  084 12W   58   X     T     A    6 US
 GA AMERICUS         KACJ  ACJ          32 07N  084 11W  143   X           W    8 US
@@ -867,33 +897,41 @@ GA GRIFFIN-SPALDING K6A2  6A2          33 14N  084 16W  292   X           W    8
 GA AUGUSTA/DANIEL   KDNL  DNL          33 28N  082 02W  130   X     T     A    7 US
 GA AUGUSTA/BUSH     KAGS  AGS   72218  33 22N  081 58W   44   X     T     A    4 US
 GA BAINBRIDGE       KBGE  BGE          30 58N  084 38W   43   X           W    8 US
+GA BAXLEY           KBHC  BHC          31 43N  082 24W   62   X                7 US
 GA BLAIRSVILLE      KDZJ  DZJ          34 51N  084 00W  582   X           W    8 US
 GA BLAKELY EARLY C  KBIJ  BIJ          31 24N  084 54W   65   X           W    7 US
 GA BRUNSWICK        KSSI  SSI          31 09N  081 23W    6   X     T     A    6 US
 GA BRUNSWICK/GLYNCO KBQK  BQK          31 15N  081 28W    8   X                7 US
 GA BUTLER           K6A1  6A1          32 34N  084 15W  203   X           W    8 US
+GA CALHOUN          KCZL  CZL          34 27N  084 56W  200   X                7 US
+GA CAMILLA          KCXU  CXU          31 13N  084 14W   54   X                7 US
+GA CANON/FRANKLIN   K18A  18A          34 21N  083 08W  271   X                8 US
 GA CANTON/CHEROKEE  KCNI  CNI          34 19N  084 25W  372   X           W    7 US
 GA CARROLLTON/GRAY  KCTJ  CTJ          33 38N  085 09W  354   X                8 US
 GA CARTERSVILLE     KVPC  VPC          34 08N  084 51W  222   X           A    7 US
 GA CLAXTON/EVANS CO KCWV  CWV          32 12N  081 52W   33   X                8 US
 GA COLUMBUS         KCSG  CSG          32 31N  084 57W  135   X     T     A    6 US
 GA CORDELE          KCKF  CKF          31 59N  083 46W   91   X                7 US
-GA COVINGTON        K9A1  9A1          33 38N  083 51W  247   X           W    8 US
+GA CORNELIA         KAJR  AJR          34 30N  083 33W  442   X                7 US
+GA COVINGTON        KCVC  CVC          33 38N  083 51W  247   X           W    8 US
 GA DALTON           KDNN  DNN          34 43N  084 52W  216   X                7 US
 GA DOBBINS AFB/MARI KMGE  MGE   72227  33 55N  084 31W  326   X     T          6 US
 GA DOUGLAS MUNI     KDQH  DQH          31 29N  082 52W   78   X           W    7 US
 GA DUBLIN           KDBN  DBN          32 34N  082 59W   94   X           W    7 US
 GA EASTMAN          KEZM  EZM          32 13N  083 08W   93   X                8 US
-GA ELBERTON PATZ F  K27A  27A          34 06N  082 49W  184   X           W    8 US
+GA ELBERTON PATZ F  KEBA  EBA          34 06N  082 49W  184   X           W    8 US
 GA FITZGERALD       KFZG  FZG          31 41N  083 16W  111   X                8 US
 GA FT BENNING/COLUM KLSF  LSF   72225  32 19N  084 58W   71   X     T          6 US
 GA FT STEWART/WRIGH KLHW  LHW   72209  31 52N  081 34W   14   X                7 US
 GA GAINESVILLE      KGVL  GVL          34 16N  083 50W  386   X           A    7 US
 GA GREENSBORO       K3J7  3J7          33 36N  083 08W  206   X           W    7 US
+GA HAMPTON          KHMP  HMP          33 23N  084 20W  269   X                8 US
 GA HAZELHURST       KAZE  AZE          31 53N  082 39W   78   X                8 US
 GA HOMERVILLE       KHOE  HOE          31 03N  082 47W   57   X                8 US
-GA JEFFERSON        K19A  19A          34 11N  083 34W  290   X           W    8 US
+GA JASPER           KJZP  JZP          34 27N  084 27W  468   X                8 US
+GA JEFFERSON        KJCA  JCA          34 11N  083 34W  290   X                8 US
 GA JESUP/WAYNE CTY  KJES  JES          31 33N  081 53W   33   X                8 US
+GA LAFAYETTE        K9A5  9A5          34 41N  085 17W  323   X                7 US
 GA LA GRANGE        KLGC  LGC          33 00N  085 04W  211   X     V          6 US
 GA LAWRENCEVILLE    KLZU  LZU          33 59N  083 58W  323   X                7 US
 GA MACON            KMCN  MCN   72217  32 41N  083 39W  109   X     U     A    3 US
@@ -907,9 +945,12 @@ GA MOULTRIE/SPENCE  KMUL  MUL          31 08N  083 42W   89   X           W    7
 GA NEWNAN           KCCO  CCO          33 19N  084 46W  296   X                7 US
 GA PEACHTREE/DEKALB KPDK  PDK          33 53N  084 18W  302   X     T     A    7 US
 GA PEACHTREE CITY   KFFC  FFC   72215  33 21N  084 34W  262   X  X     X  A  F 1 US
+GA PERRY            KPXE  PXE          32 31N  083 46W  128   X                7 US
+GA PINE MOUNTAIN    KPIM  PIM          32 50N  084 53W  275   X                7 US
 GA ATLANTA RFC      KALR  ALR          33 22N  084 34W  248                  R 8 US
 GA ROBINS AFB/88D   KJGX  JGX          32 41N  083 21W  159      X             8 US
 GA ROME             KRMG  RMG   72320  34 21N  085 10W  193   X           A    7 US
+GA SANDERSVILLE     KOKZ  OKZ          32 58N  082 50W  134   X                8 US
 GA SAVANNAH         KSAV  SAV   72207  32 07N  081 12W   14   X     U     A    4 US
 GA SAVANNAH/HUNTER  KSVN  SVN   74780  32 01N  081 09W   13   X     T          6 US
 GA STATESBORO       KTBR  TBR          32 29N  081 44W   57   X           W    7 US
@@ -928,6 +969,9 @@ GA WAYCROSS/WARE CO KAYS  AYS   72213  31 15N  082 24W   46   X                7
 GA WINDER/BARROW    KWDR  WDR          33 59N  083 40W  287   X                7 US
 GA BLAKELY EARLY C  K11J  11J          31 24N  084 54W   65   Z                8 US
 GA CANTON/CHEROKEE  K47A  47A          34 19N  084 25W  372   Z                9 US
+GA COVINGTON        K9A1  9A1          33 38N  083 51W  247   Z                8 US
+GA ELBERTON PATZ F  K27A  27A          34 06N  082 49W  184   Z                8 US
+GA JEFFERSON        K19A  19A          34 11N  083 34W  290   Z                8 US
 GA SAVANNAH LIGHT               99438  31 57N  080 19W    1   Z                8 US
 
 HAWAII             30-APR-13
@@ -1207,7 +1251,7 @@ ID CHALLIS          KLLJ  LLJ          44 31N  114 13W 1536   X           A    7
 ID COEUR D'ALENE    KCOE  COE          47 46N  116 49W  707   X     T     W    4 US
 ID DRIGGS REED MEM  KDIJ  DIJ          43 45N  111 06W 1899   X                7 US
 ID DUBIOS (VOR)     KDBS  DBS          44 05N  112 13W 1638         V          8 US
-ID GRANGEVILLE      KGIC  GIC   72687  45 57N  116 07W 1009   X                7 US
+ID GRANGEVILLE      KGIC  GIC   72687  45 56N  116 08W 1009   X                7 US
 ID HAILEY/FRIEDMAN  KSUN  SUN          43 30N  114 17W 1620   X     T          6 US
 ID IDAHO FALLS      KIDA  IDA          43 31N  112 04W 1453   X     T     A    6 US
 ID JEROME COUNTY    KJER  JER          42 43N  114 27W 1222   X     T          7 US
@@ -1240,7 +1284,7 @@ ID SALMON (AWRS)    K27U  27U          45 10N  113 54W 1210   Z                8
 ID SAYLOR CREEK     KMI1  MI1          42 30N  115 30W 1000   Z                8 US
 ID GRANGEVILLE      KS80  S80          45 57N  116 07W 1011   Z                7 US
 
-ILLINOIS           10-FEB-12
+ILLINOIS           24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 IL ALTON/ST LOUIS R KALN  ALN          38 53N  090 02W  166   X                7 US
 IL BLOOMINGTON/NORM KBMI  BMI          40 28N  088 55W  267   X     T          7 US
@@ -1287,6 +1331,7 @@ IL MOLINE/QUAD CITY KMLI  MLI   72544  41 27N  090 31W  184   X     T     A    6
 IL MONEE            KC56  C56          41 23N  087 41W  241   X           W    7 US
 IL MORRIS-WASHBURN  KC09  C09          41 26N  088 25W  178   X           W    7 US
 IL MOUNT CARMEL     KAJG  AJG          38 37N  087 44W  131   X           W    7 US
+IL MOUNT STERLING   KI63  I63          39 59N  090 48W  224   X                7 US
 IL MOUNT VERNON     KMVN  MVN          38 19N  088 52W  146   X           W    7 US
 IL OLNEY-NOBLE      KOLY  OLY          38 43N  088 11W  147   X           W    7 US
 IL PALWAUKEE        KPWK  PWK          42 07N  087 54W  203   X           A    7 US
@@ -1317,40 +1362,51 @@ IL LINCOLN          K3LC  3LC          40 10N  089 20W  182   Z                8
 IL RANTOUL          K2I5  2I5          40 18N  088 09W  225   Z                8 US
 IL ROCHELLE/KORITZ  K12C  12C          41 53N  089 04W  238   Z                8 US
 
-INDIANA            22-OCT-13
+INDIANA            24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 IN ANDERSON MUNICIP KAID  AID          40 07N  085 37W  280   X                7 US
 IN ANGOLA           KANQ  ANQ          41 38N  085 05W  303   X                8 US
 IN AUBURN DEKALB C  KGWB  GWB          41 18N  085 04W  269   X                8 US
 IN BLOOMINGTON      KBMG  BMG          39 09N  086 37W  257   X     T     A    7 US
 IN COLUMBUS/BALKALA KBAK  BAK          39 16N  085 54W  200   X                7 US
+IN CRAWFORDSVILLE   KCFJ  CFJ          39 59N  086 55W  244   X                8 US
 IN DAVIESS COUNTY   KDCY  DCY          38 42N  087 08W  144   X                8 US
 IN ELKHART MUNICIPA KEKM  EKM          41 43N  086 00W  237   X                7 US
 IN EVANSVILLE       KEVV  EVV   72432  38 03N  087 31W  117   X     T     A    4 US
 IN EVANSVILLE       KVWX  VWX          38 16N  087 43W  190      X             6 US
 IN FORT WAYNE       KFWA  FWA   72533  40 59N  085 11W  248   X     U     A    3 US
+IN FRANKFORT        KFKR  FKR          40 16N  086 34W  263   X                7 US
 IN GARY REGIONAL    KGYY  GYY          41 37N  087 25W  180   X     T          4 US
 IN GOSHEN           KGSH  GSH          41 32N  085 47W  252   X           A    7 US
+IN GREENCASTLE      KGPC  GPC          39 38N  086 49W  257   X                7 US
 IN GRISSOM AFB/PERU KGUS  GUS          40 38N  086 09W  247   X     T          6 US
 IN HIMSEL AAF       K1II  1II          39 20N  086 02W  214   X                7 US
 IN HUNTINGBURG      KHNB  HNB          38 15N  086 57W  161   X                7 US
+IN HUNTINGTON       KHHG  HHG          40 51N  085 27W  246   X                8 US
 IN INDIANAPOLIS     KEYE  EYE          39 50N  086 18W  248   X           A    7 US
 IN INDIANAPOLIS     KIND  IND   72438  39 43N  086 18W  241   X  X  U     A  F 2 US
+IN INDIANAPOL/METRO KUMP  UMP          39 56N  086 03W  248   X           W    7 US
 IN INDIANAPOL/ARTCC KZID  ZID          39 44N  086 17W  243         A          8 US
 IN INDIANAPOLIS EXC KTYQ  TYQ          40 02N  086 15W  281   X           W    8 US
 IN INDIANAPOLIS REG KMQJ  MQJ          39 51N  085 54W  263   X           W    8 US
+IN INDIANAPOLIS     KHFY  HFY          39 38N  086 05W  251   X                8 US
+IN KENDALLVILLE     KC62  C62          41 28N  085 16W  306   X                7 US
 IN KNOX STARKE CTY  KOXI  OXI          41 20N  086 40W  209   X                8 US
 IN KOKOMO           KOKK  OKK          40 32N  086 04W  253   X           W    8 US
 IN LAFAYETTE        KLAF  LAF          40 25N  086 56W  182   X     T     A    4 US
 IN LAFAYETTE VOR    KBVT  BVT          40 34N  087 04W  182         V          8 US
 IN LA PORTE         KPPO  PPO          41 34N  086 44W  248   X                8 US
 IN LOGANSPORT       KGGP  GGP          40 43N  086 22W  225   X           W    8 US
+IN MADISON          KIMS  IMS          38 46N  085 28W  250   X                8 US
 IN MARION MUNI      KMZZ  MZZ          40 29N  085 41W  262   X                8 US
 IN MICHIGAN CITY    KMGC  MGC          41 42N  086 49W  200   X           W    8 US
+IN MONTICELLO       KMCX  MCX          40 43N  086 46W  250   X                8 US
 IN MUNCIE           KMIE  MIE          40 14N  085 24W  285   X           A    7 US
+IN NINEVEH          KHBE  HBE          39 21N  086 02W  216   X           W    8 US
 IN NORTH WEBSTER    KIWX  IWX          41 22N  085 42W  293      X             8 US
 IN POCKET CITY VOR  KPXV  PXV          37 56N  087 46W  117         V          8 US
 IN RENSSELAER       KRZL  RZL          40 57N  087 11W  213   X           W    8 US
+IN RICHMOND         KRID  RID          39 45N  084 51W  348   X                8 US
 IN ROCHESTER        KRCR  RCR          41 04N  086 11W  241   X           W    8 US
 IN SHELBYVILLE      KGEZ  GEZ          39 35N  085 48W  245   X           A    7 US
 IN SOUTH BEND       KSBN  SBN   72535  41 42N  086 19W  237   X     T     A    4 US
@@ -1364,14 +1420,17 @@ IN INDIANAPOLIS/EAG KI14  I14          39 50N  086 18W  251   Z                8
 IN JEFFERSON PRVG         MDN   74468  38 50N  085 25W  266   Z                8 US
 IN SHELBYVILLE      K3SM  3SM          39 35N  085 48W  245   Z                8 US
 
-KANSAS             28-FEB-12
+KANSAS             24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 KS ALMA/TOPEKA      KTWX  TWX          39 00N  096 14W  417      X             8 US
+KS AUGUSTA          K3AU  3AU          37 40N  097 05W  416   X                8 US
+KS BENTON           K1K1  1K1          37 46N  097 07W  416   X                8 US
 KS BURLINGTON       KUKL  UKL          38 18N  095 44W  358   X           W    8 US
 KS CHANUTE          KCNU  CNU          37 40N  095 29W  297   X     T     A    6 US
 KS COFFEYVILLE      KCFV  CFV          37 05N  095 34W  225   X           A    7 US
 KS CONCORDIA        KCNK  CNK   72458  39 33N  097 39W  447   X           A    7 US
 KS DODGE CITY       KDDC  DDC   72451  37 46N  099 58W  789   X  X  T  X  A  F 0 US
+KS EL DORADO        KEQA  EQA          37 46N  096 49W  421   X                7 US
 KS ELKHART          KEHA  EHA   72460  37 00N  101 54W 1099   X     S     W    6 US
 KS EMPORIA          KEMP  EMP          38 20N  096 12W  367   X           A    7 US
 KS FORT LEAVENWORTH KFLV  FLV          39 22N  094 55W  235   X                7 US
@@ -1388,11 +1447,13 @@ KS HILLSBORO PROFIL       HBR   74546  38 17N  097 17W  477            W       8
 KS HILLSBORO                    74547  38 37N  097 18W  477            W       8 US
 KS HUTCHINSON       KHUT  HUT          38 04N  097 52W  467   X     T     A    6 US
 KS INDEPENDENCE     KIDP  IDP          37 10N  095 47W  251   X           W    8 US
+KS IOLA             KK88  K88          37 52N  095 23W  310   X                8 US
 KS JENNINGS         KJN8  JN8          39 41N  100 18W  762   X           W    8 US
 KS LAWRENCE         KLWC  LWC          39 01N  095 13W  253   X           A    7 US
 KS LEOTI/HOARD MEML K3K7  3K7          38 27N  101 21W 1007   X           W    7 US
 KS LIBERAL          KLBL  LBL          37 02N  100 58W  879   X     V     W    4 US
 KS MANHATTAN        KMHK  MHK          39 08N  096 41W  317   X     T     A    4 US
+KS MARYSVILLE       KMYZ  MYZ          39 51N  096 38W  392   X                8 US
 KS MCCONNELL AFB    KIAB  IAB          37 37N  097 16W  418   X     T          6 US
 KS MEDICINE LODGE   KP28  P28   72452  37 17N  098 33W  469   X           A    7 US
 KS NEODESHA PROFILE       NDS   74542  37 22N  095 37W  255            W       8 US
@@ -1401,16 +1462,19 @@ KS NEWTON           KEWK  EWK          38 02N  097 16W  467   X           W    7
 KS OLATHE/INDUSTRIA KIXD  IXD          38 49N  094 53W  342   X           A    7 US
 KS OLATHE/EXECUTIVE KOJC  OJC          38 51N  094 44W  326   X           A    7 US
 KS OSWEGO/VOR       KOSW  OSW          37 09N  095 12W  283         V          8 US
+KS OTTAWA           KOWI  OWI          38 32N  095 15W  295   X                8 US
 KS PARSONS          KPPF  PPF          37 20N  095 30W  274   X           A    7 US
 KS PITTSBURG        KPTS  PTS          37 27N  094 44W  290   X                8 US
 KS PRATT INDUST     KPTT  PTT          37 42N  098 45W  595   X           W    8 US
 KS RUSSELL          KRSL  RSL          38 52N  098 49W  567   X     T     A    6 US
 KS SALINA           KSLN  SLN          38 47N  097 39W  385   X     U     A    6 US
+KS SUBLETTE         K19S  19S          37 30N  100 50W  888   X                8 US
 KS TOPEKA/FORBES    KFOE  FOE          38 56N  095 39W  320   X     T     A    6 US
 KS TOPEKA           KTOP  TOP   72456  39 04N  095 38W  268   X     T  X  A  F 3 US
 KS WAKEENEY         KWK6  WK6          39 02N  099 53W  752   X           W    7 US
 KS WICHITA          KICT  ICT   72450  37 39N  097 26W  407   X  X  U     A  F 3 US
 KS WICHITA/JABARA   KAAO  AAO          37 45N  097 13W  434   X           A    7 US
+KS WICHITA/BEECH    KBEC  BEC          37 42N  097 13W  430   X                8 US
 KS WINFIELD/ARKANSA KWLD  WLD          37 10N  097 02W  350   X           A    7 US
 KS ELKHART          K1K5  1K5          37 00N  101 53W 1102   Z                8 US
 KS SMOKEY HILL GUN              74545  38 39N  097 48W  422   Z                8 US
@@ -1431,7 +1495,7 @@ KS ELLSWORTH        K9K7  9K7          38 45N  098 14W  492   X           W    9
 KS EUREKA           K13K  13K          37 51N  096 18W  369   X           W    9 US
 KS FORT SCOTT       KFSK  FSK          37 48N  094 46W  280   X           W    9 US
 KS HUGOTON          KHQG  HQG          37 10N  101 22W  956   X           W    9 US
-KS JOHNSON          K2K3  2K3          37 35N  101 44W 1013   X           W    9 US
+KS JOHNSON          KJHN  JHN          37 35N  101 44W 1014   X                9 US
 KS KINGMAN          K9K8  9K8          37 40N  098 07W  490   X           W    9 US
 KS MCPHERSON        KMPR  MPR          38 21N  097 41W  457   X           W    9 US
 KS OAKLEY           KOEL  OEL          39 07N  100 49W  929   X           W    9 US
@@ -1439,8 +1503,9 @@ KS SCOTT CITY       KTQK  TQK          38 28N  100 53W  904   X           W    9
 KS SMITH CENTER     KK82  K82          39 46N  098 48W  549   X           W    9 US
 KS ULYSSES          KULS  ULS          37 36N  101 22W  936   X           W    9 US
 KS WELLINGTON       KEGT  EGT          37 19N  097 23W  390   X           W    9 US
+KS JOHNSON          K2K3  2K3          37 35N  101 44W 1014   Z                9 US
 
-KENTUCKY           03-DEC-13
+KENTUCKY           24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 KY BIG SANDY RGNL   KSJS  SJS          37 45N  082 38W  372   X     T          8 US
 KY BOWLING GREE     KBWG  BWG          36 58N  086 25W  168   X     U     A    4 US
@@ -1448,13 +1513,17 @@ KY COVINGTON        KCVG  CVG   72421  39 03N  084 40W  269   X     U     A    0
 KY DANVILLE         KDVK  DVK          37 35N  084 46W  312   X           W    8 US
 KY HOPKINTON/F CAMB KHPX  HPX          36 44N  087 17W  176      X             8 US
 KY HOPKINSVILLE     KHOP  HOP   74671  36 40N  087 30W  174   X     T          6 US
+KY ELIZABETH        KEKX  EKX          37 43N  085 52W  230   X                8 US
 KY FALMOUTH         KK62  K62          38 42N  084 24W  274   X           W    8 US
+KY FLEMINGSBURG     KFGX  FGX          38 33N  083 45W  279   X                8 US
 KY FORT KNOX/88D    KLVX  LVX          37 59N  085 57W  219      X             8 US
 KY FORT KNOX/GODMAN KFTK  FTK   72424  37 53N  085 58W  230   X     T          6 US
 KY FRANKFORT        KFFT  FFT          38 11N  084 54W  236   X           A    7 US
 KY GLASGOW          KGLW  GLW          37 02N  085 57W  218   X           W    8 US
+KY GREENVILLE       KM21  M21          37 14N  087 09W  131   X                8 US
 KY HARLAN           KI35  I35          36 52N  083 22W  473   X           W    8 US
 KY HENDERSON CITY   KEHR  EHR          37 49N  087 40W  117   X                7 US
+KY LEWISPORT        KKY8  KY8          37 57N  086 51W  126   X                8 US
 KY LEXINGTON        KLEX  LEX   72422  38 02N  084 36W  300   X     T     A    4 US
 KY LONDON           KLOZ  LOZ   72329  37 05N  084 04W  362   X     U     A    6 US
 KY LOUISVILLE       KSDF  SDF   72423  38 11N  085 44W  146   X     T     A    6 US
@@ -1466,21 +1535,24 @@ KY MARION           K5M9  5M9          37 20N  088 07W  199   X           W    8
 KY MAYFIELD         KM25  M25          36 46N  088 35W  160   X           W    8 US
 KY MIDDLESBORO-BELL K1A6  1A6          36 37N  083 44W  352   X                8 US
 KY MONTICELLO/WAYNE KEKQ  EKQ          36 51N  084 51W  294   X           A    7 US
-KY MOREHEAD         KM97  M97          38 13N  083 35W  313   X                9 US
+KY MOREHEAD         KSYM  SYM          38 13N  083 35W  313   X                8 US
 KY MOUNT STERLING   KIOB  IOB          38 03N  083 59W  311   X                8 US
 KY MURRAY KYLE-OAK  KCEY  CEY          36 40N  088 22W  176   X           W    8 US
 KY NOCTOR/JACKSON   KJKL  JKL          37 36N  083 19W  416   X  X  T     A  F 5 US
 KY OWENSBORO/DAVIES KOWB  OWB          37 43N  087 10W  124   X     T          7 US
 KY PADUCAH          KPAH  PAH   72435  37 04N  088 46W  119   X  X  T     A  F 3 US
+KY PIKEVILLE        KPBX  PBX          37 34N  082 34W  449   X                8 US
 KY RICHMOND/MADISON KI39  I39          37 38N  084 20W  306   X                8 US
+KY SPRINGFIELD      K6I2  6I2          37 38N  085 15W  266   X                8 US
 KY SOMERSET         KSME  SME          37 03N  084 37W  283   X     T     W    7 US
 KY TOMPKINSVILLE    KTZV  TZV          36 44N  085 39W  316   X           W    7 US
-KY ELIZABETH        KEKX  EKX          37 43N  085 52W  230   Z                8 US
+KY WILLIAMSBURG     KBYL  BYL          36 48N  084 12W  359   X                8 US
 KY HENDERSON CITY   KI26  I26          37 49N  087 40W  117   Z                8 US
+KY MOREHEAD         KM97  M97          38 13N  083 35W  313   Z                9 US
 KY PIKEVILLE (RAMOS K5I3  5I3   72413  37 28N  082 31W  446   Z                8 US
 KY PRESTONBURG      KK22  K22          37 45N  082 38W  372   Z                8 US
 
-LOUISIANA          22-OCT-13
+LOUISIANA          24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 LA ABBEVILLE CC MEM KIYA  IYA          29 59N  092 05W    5   X           A    8 US
 LA ALEXANDRIA       KAEX  AEX   74754  31 20N  092 34W   27   X     U     A    6 US
@@ -1518,6 +1590,7 @@ LA INTRACOASTAL CIT K7R4  7R4          29 46N  092 07W    5   X           W    8
 LA JENNINGS         K3R7  3R7          30 15N  092 40W    7   X                8 US
 LA LAFAYETTE        KLFT  LFT          30 12N  092 00W   11   X     T     A    6 US
 LA LAKE CHARLES     KLCH  LCH   72240  30 08N  093 13W    4   X  X  U  X  A  F 3 US
+LA MANSFIELD        K3F3  3F3          32 04N  093 46W   99   X                7 US
 LA MINDEN           KMNE  MNE          32 39N  093 18W   85   X           W    8 US
 LA MONROE           KMLU  MLU          32 31N  092 02W   29   X     U     A    6 US
 LA NATCHITOCHES     KIER  IER          31 44N  093 06W   37   X                7 US
@@ -1526,9 +1599,11 @@ LA NEW ORLEANS/LAKE KNEW  NEW          30 03N  090 02W    3   X     T     A    1
 LA NEW ORLEANS NAS  KNBG  NBG          29 49N  090 01W    1   X     T          6 US
 LA NEW ORLEANS/INTL KMSY  MSY   72231  30 00N  090 15W    5   X     T     A    0 US
 LA NEW ROADS        KHZR  HZR          30 43N  091 29W   12   X           W    8 US
+LA NEW O SUPERDOME  KVSH  VSH          29 57N  090 05W    5   X                7 US
 LA HARVEY/N ORLEANS KHRV  HRV          29 51N  090 00W    1         V          8 US
 LA OAKDALE ALLEN P  KACP  ACP          30 45N  092 41W   33   X           W    7 US
 LA OPELOUSAS        KOPL  OPL          30 33N  092 06W   23   X                8 US
+LA RESERVE          KAPS  APS          30 05N  090 35W    3   X                8 US
 LA RUSTON REGIONAL  KRSN  RSN          32 31N  092 35W   95   X           A    7 US
 LA PATTERSON MEMORI KPTN  PTN          29 43N  091 19W    3   X                7 US
 LA SALT POINT       KP92  P92          29 34N  091 32W    1   X           A    7 US
@@ -1559,8 +1634,9 @@ LA EUGENE IS. 266C  K41I  41I          28 28N  091 47W   31   Z                8
 LA GALLIANO         KL49  L49          29 27N  090 16W    1   Z                8 US
 LA GARDEN BANKS 23              99447  27 22N  093 12W    1   Z                8 US
 LA GARDEN BANKS172  KGHB  GHB          27 50N  091 59W   30   X           W    8 US
-LA GONZALES         KL38  L38          30 10N  090 56W    4   X                7 US
+LA GONZALES         KREG  REG          30 10N  090 56W    5   X                7 US
 LA GRAND CHEINER    KL29  L29          29 48N  092 50W    1   Z                8 US
+LA GONZALES         KL38  L38          30 10N  090 56W    5   Z                9 US
 LA GREEN CANYON 184 KG01  G01          27 54N  091 30W    1   Z                8 US
 LA HIGH ISLAND 511  K01T  01T          28 08N  094 24W   30   Z                8 US
 LA HIGH IS. A572C   KH39  H39          27 57N  093 59W   30   Z                8 US
@@ -1713,6 +1789,7 @@ ME MILLINOCKET      KMLT  MLT          45 39N  068 42W  123   X     V     A    6
 ME OLD TOWN/DEWITT  KOLD  OLD          44 57N  068 40W   39   X                7 US
 ME PORTLAND         KPWM  PWM   72606  43 39N  070 18W   15   X     T     A    3 US
 ME PRESQUE ISLE     KPQI  PQI   72713  46 40N  068 02W  146   X     U     W    6 US
+ME RANGELEY         K8B0  8B0          44 58N  070 42W  554   X                8 US
 ME ROCKLAND/KNOX    KRKD  RKD          44 04N  069 05W   17   X     T     W    7 US
 ME SANFORD MUNI     KSFM  SFM          43 23N  070 43W   74   X           W    7 US
 ME WATERVILLE       KWVL  WVL          44 31N  069 40W  101   X           W    7 US
@@ -1724,12 +1801,11 @@ ME HARMONY          K2B7  2B7          44 56N  069 37W  107   Z                8
 ME LORING AFB       KLIZ  LIZ          46 57N  067 53W  227   Z                8 US
 ME MATINICUS ISLE               99437  43 46N  068 09W   16   Z                8 US
 ME MOUNT DESERT RO              99406  43 58N  068 52W    9   Z                8 US
-ME RANGELEY         K8B0  8B0          44 58N  070 42W  554   Z                8 US
 ME RUMFORD          KRUM  RUM   72618  44 32N  070 32W  207   Z                8 US
 ME SEWEL RIDGE      K9B6  9B6          43 00N  068 00W  150   Z                8 US
 ME WISCASSET        K9B9  9B9          43 58N  069 43W   21   Z                8 US
 
-MICHIGAN           30-APR-13
+MICHIGAN           24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 MI ADRIAN           KADG  ADG          41 52N  084 05W  241   X           A    7 US
 MI ALMA             KAMN  AMN          43 19N  084 41W  230   X           W    7 US
@@ -1815,6 +1891,7 @@ MI STURGIS/KIRSCH   KIRS  IRS          41 48N  085 26W  282   X           W    7
 MI THREE RIVERS     KHAI  HAI          41 58N  085 36W  251   X           W    7 US
 MI TRAVERSE CIT     KTVC  TVC          44 44N  085 34W  190   X     U     A    6 US
 MI TROY/OAKLAND     KVLL  VLL          42 33N  083 11W  222   X                8 US
+MI WEST BRANCH      KY31  Y31          44 15N  084 11W  270   X                8 US
 MI CARO/TUSCOLA     K78D  78D          43 28N  083 27W  214   Z                8 US
 MI CHARLOTTE        K07G  07G          42 34N  084 49W  272   Z           W    8 US
 MI CHEBOYGAN        KY15  Y15          45 39N  084 31W  195   Z                8 US
@@ -1839,7 +1916,7 @@ MI SOUTH HAVEN      K0D1  0D1          42 21N  086 15W  203   Z                9
 MI STANNARD ROCK                99420  47 10N  087 46W  183   Z                8 US
 MI TROY/OAKLAND     K7D2  7D2          42 33N  083 11W  222   Z                8 US
 
-MINNESOTA          30-APR-13
+MINNESOTA          24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 MN AITKIN NDB       KAIT  AIT          46 32N  093 40W  367   X           W    7 US
 MN ALBERT LEA       KAEL  AEL          43 41N  093 22W  383   X           W    7 US
@@ -1891,6 +1968,7 @@ MN LONG PRAIRIE     K14Y  14Y          45 54N  094 52W  406   X           W    8
 MN LONGVILLE        KXVG  XVG          46 59N  094 12W  407   X           A    7 US
 MN LUVERNE          KLYV  LYV          43 37N  096 13W  436   X           W    8 US
 MN MADISON          KDXX  DXX          44 59N  096 11W  330   X                7 US
+MN MAHNOMEN         K3N8  3N8          47 16N  095 56W  380   X                7 US
 MN MANKATO          KMKT  MKT          44 13N  093 55W  311   X           W    7 US
 MN MARSHALL/RYAN    KMML  MML          44 27N  095 49W  359   X           W    7 US
 MN MAPLE LAKE       KMGG  MGG          45 14N  093 59W  313   X           A    7 US
@@ -1940,6 +2018,7 @@ MN TOFTE (RAMOS)    KP61  P61          47 34N  090 49W  241   X                7
 MN TRACY            KTKC  TKC          44 15N  095 37W  408   X           W    8 US
 MN TWO HARBORS      KTWM  TWM          47 02N  091 45W  328   X                7 US
 MN WADENA MUNI      KADC  ADC          46 27N  095 13W  418   X                7 US
+MN WALKER           KY49  Y49          47 10N  094 39W  411   X                8 US
 MN WARROAD          KRRT  RRT   72756  48 56N  095 20W  327   X     S          6 US
 MN WASECA           KACQ  ACQ          44 04N  093 33W  343   X           W    8 US
 MN WASKISH MUNI     KVWU  VWU          48 09N  094 31W  360   X           W    7 US
@@ -1992,14 +2071,14 @@ MN LAMBERTON        QRCM               44 14N  095 16W  349   X           S    9
 MN WEST CONCORD     QTMM               44 08N  092 54W  387   X           S    9 US
 MN ROCHESTER        QWLM               43 59N  092 26W  312   X           S    9 US
 
-MISSOURI           30-APR-13
+MISSOURI           24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 MO BLOOMFIELD PROFI       BLM   74662  36 52N  089 58W  130            W       8 US
 MO BOONVILLE        KVER  VER          38 57N  092 41W  218   X                7 US
 MO BRANSON          KBBG  BBG          36 32N  093 12W  397   X     T          7 US
 MO BRANSON WEST     KFWB  FWB          36 42N  093 24W  406   X                7 US
 MO BUTLER           KBUM  BUM          38 16N  094 29W  271         V          8 US
-MO CAMDENTON        KH21  H21          37 58N  092 41W  324   X           W    8 US
+MO CAMDENTON        KOZS  OZS          37 58N  092 41W  324   X                8 US
 MO CAPE GIRARDEAU   KCGI  CGI          37 14N  089 35W  102   X     T     A    6 US
 MO CHILLICOTHE      KCDJ  CDJ          39 49N  093 35W  234   X           A    7 US
 MO CLINTON          KGLY  GLY          38 21N  093 41W  251   X                8 US
@@ -2020,6 +2099,7 @@ MO KANSAS CITY/COM  KNKA  NKA          39 07N  094 36W  231                    8
 MO KANSAS CITY/AWC  KKCI  KCI          39 17N  094 40W  231                  C 9 US
 MO KANSAS CITY/RFC  KKRF  KRF          38 49N  094 16W  312                  R 8 US
 MO KANSAS CIT/ARTCC KZKC  ZKC          38 51N  094 44W  231         A          8 US
+MO KENNETT          KTKX  TKX          36 14N  090 02W   80   X                7 US
 MO KIRKSVILLE       KIRK  IRK          40 06N  092 33W  293   X     V     A    6 US
 MO LATHROP PROFILER       LTH   74551  39 34N  094 10W  297            W       8 US
 MO LEES SUMMIT MUNI KLXT  LXT          38 58N  094 22W  306   X           A    7 US
@@ -2054,12 +2134,14 @@ MO WEST PLAINS      KUNO  UNO   72348  36 53N  091 54W  372   X           A    7
 MO WHITEMAN AFB     KSZL  SZL          38 43N  093 32W  265   X     T          6 US
 MO POPLAR BLUFF     KP02  P02   72330  36 46N  090 28W  146   Z                8 US
 MO ST. CHARLES      K3SQ  3SQ          38 51N  090 30W  135   Z                8 US
+MO CAMDENTON        KH21  H21          37 58N  092 41W  324   Z                8 US
 MO WEST PLAINS      KH63  H63          36 45N  091 52W  308   Z                8 US
 MO WARRENSBURG SKYH K9K4  9K4          38 47N  093 48W  244   Z                9 US
 
-MISSISSIPPI        03-DEC-13
+MISSISSIPPI        24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 MS ABERDEEN/AMORY   KM40  M40          33 52N  088 29W   69   X           W    8 US
+MS BATESVILLE       KPMU  PMU          34 22N  089 54W   68   X                7 US
 MS BAY ST LOUIS     KHSA  HSA          30 22N  089 27W    7   X     T          7 US
 MS BELMONT          K01M  01M          34 30N  088 12W  176   X           W    8 US
 MS BILOXI/KEESLER   KBIX  BIX          30 25N  088 55W   10   X     T          6 US
@@ -2067,8 +2149,10 @@ MS BIGBEE           KIGB  IGB          33 29N  088 30W   73         V          8
 MS BROOKHAVEN       K1R7  1R7          31 36N  090 25W  149   X           W    8 US
 MS CLARKSDALE       KCKM  CKM          34 18N  090 31W   53   X           W    8 US
 MS CLEVELAND        KRNV  RNV          33 46N  090 45W   41   X                7 US
+MS COLUMBIA-MARION  K0R0  0R0          31 18N  089 49W   81   X                8 US
 MS COLUMBUS AFB     KCBM  CBM          33 38N  088 27W   67   X     T          6 US
 MS COLUMBUS AFB/88D KGWX  GWX          33 54N  088 20W  145      X             8 US
+MS CONCORDIA PARISH K0R4  0R4          31 34N  091 30W   17   X                8 US
 MS CORINTH/R TURNER KCRX  CRX          34 55N  088 36W  130   X           W    8 US
 MS GOLDEN/COLUMBUS  KGTR  GTR          33 27N  088 34W   80   X     T     W    7 US
 MS GREENVILLE       KGLH  GLH          33 30N  090 59W   45   X     T     A    6 US
@@ -2078,6 +2162,8 @@ MS HATTIESBURG      KHBG  HBG          31 16N  089 15W   44   X     T     A    7
 MS INDIANOLA        KIDL  IDL          33 29N  090 41W   39   X           W    9 US
 MS JACKSON/HAWKINS  KHKS  HKS          32 20N  090 13W  108   X     T     A    7 US
 MS JACKSON          KJAN  JAN   72235  32 19N  090 05W   91   X  Z  T  X  A    3 US
+MS LAUREL           KLUL  LUL          31 28N  089 20W   91   X                8 US
+MS MADISON          KMBO  MBO          32 26N  090 06W  100   X                8 US
 MS MAGNOLIA         KMHZ  MHZ          32 26N  090 06W   91         V          8 US
 MS BRANDON/JACKSON  KDGX  DGX          32 17N  089 59W  186      X           F 5 US
 MS MCCOMB           KMCB  MCB          31 11N  090 28W  124   X     U     A    6 US
@@ -2095,10 +2181,10 @@ MS SIDON VOR        KSQS  SQS          33 28N  090 17W   42         V          8
 MS STARKVILLE       KSTF  STF          33 26N  088 51W  102   X           W    8 US
 MS TUNICA           KUTA  UTA          34 41N  090 21W   59   X                8 US
 MS TUPELO           KTUP  TUP   72332  34 16N  088 46W  105   X     T     A    4 US
+MS VICKSBURG        KVKS  VKS          32 14N  090 56W   32   X                8 US
+MS WINONA           K5A6  5A6          33 28N  089 44W  111   X                8 US
 MS GREENWOOD        KGRW  GRW          33 30N  090 05W   44         Z          8 US
-MS LAUREL           KLUL  LUL          31 28N  089 20W   91   Z                8 US
 MS RAYMOND          KM16  M16          32 18N  090 25W   76   Z                8 US
-MS VICKSBURG        KVKS  VKS          32 14N  090 56W   32   Z                8 US
 MS YAZOO CITY       KYZO  YZO          32 54N  090 22W   36   Z                8 US
 MS INNOVATOR OILP   KMYT  MYT          28 13N  089 37W   23   X                9 US
 MS WEST DELTA 27A   KDLP  DLP          29 07N  089 33W   36   X                9 US
@@ -2157,7 +2243,7 @@ MT BROADUS          K4BQ  4BQ   72667  45 26N  105 24W  922   Z                9
 MT HAMILTON/RAVALLI KHMM  HMM          46 15N  114 09W 1110   Z                9 US
 MT MONIDA           KMQM  MQM          44 34N  112 19W 2068   Z                9 US
 
-NORTH CAROLINA     22-OCT-13
+NORTH CAROLINA     24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 NC AHOSKIE/TRI COUN KASJ  ASJ          36 17N  077 10W   21   X                7 US
 NC ALBEMARLE STANLY KVUJ  VUJ          35 25N  080 09W  186   X                7 US
@@ -2226,12 +2312,13 @@ NC SALISBURY ROWAN  KRUQ  RUQ          35 39N  080 31W  236   X                7
 NC SANFORD          KTTA  TTA          35 35N  079 06W   75   X           W    7 US
 NC SHALLOTTE/WILM.  KLTX  LTX          33 59N  078 26W   20      X             8 US
 NC SHELBY MUNI      KEHO  EHO          35 15N  081 36W  258   X           W    7 US
-NC SILER CITY       K5W8  5W8          35 42N  079 30W  188   X           W    8 US
+NC SILER CITY       KSCR  SCR          35 42N  079 30W  188   X                8 US
 NC SOUTHERN PINES   KSOP  SOP          35 13N  079 24W  141   X                7 US
 NC SMITHFIELD JOHNS KJNX  JNX          35 32N  078 23W   50   X                7 US
 NC STATESVILLE      KSVH  SVH          35 45N  080 57W  294   X                7 US
 NC STUMPY POINT     K2DP  2DP   74695  35 41N  075 54W    3   X                8 US
 NC SOUTHPORT        KSUT  SUT          33 56N  078 05W    8   X           W    7 US
+NC SYLVA            K24A  24A          35 19N  083 13W  871   X                7 US
 NC TARBORO          KETC  ETC          35 56N  077 33W   17   X           W    8 US
 NC WASHINGTON       KOCW  OCW          35 34N  077 03W   12   X                7 US
 NC WHITEVILLE       KCPC  CPC          34 17N  078 43W   29   X           W    8 US
@@ -2250,6 +2337,7 @@ NC FRYING PAN SHOA              99404  33 28N  077 25W    1   Z                8
 NC HOT SPRINGS      KHSS  HSS          35 54N  082 49W  451   Z                8 US
 NC REIDSVILLE       K78N  78N          36 26N  079 51W  211   Z                8 US
 NC ROCKINGHAM       K45J  45J          34 53N  079 46W  109   Z                8 US
+NC SILER CITY       K5W8  5W8          35 42N  079 30W  188   Z                9 US
 NC WALLACE          KACZ  ACZ          34 44N  078 00W   30   Z                8 US
 
 NORTH DAKOTA       03-DEC-13
@@ -2297,7 +2385,7 @@ ND WILLISTON        KISN  ISN   72767  48 10N  103 38W  579   X     U     A    6
 ND ROSEGLEN         KP24  P24   72765  47 45N  101 50W  624         Y          8 US
 ND WAHPETON         KBWP  BWP          46 15N  096 37W  295   X           W    8 US
 
-NEBRASKA           18-MAY-11
+NEBRASKA           24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 NE AINSWORTH MUNICI KANW  ANW          42 34N  100 00W  789   X     V          6 US
 NE ALBION MUNI      KBVN  BVN          41 44N  098 03W  551   X           W    8 US
@@ -2311,6 +2399,7 @@ NE COLUMBUS MUNI    KOLU  OLU          41 27N  097 19W  440   X           W    7
 NE FAIRBURY PROFILE       FBY   74440  40 04N  097 19W  433            W       8 US
 NE FALLS CITY/BRENN KFNB  FNB          40 04N  095 35W  300   X                7 US
 NE FREMONT MUNI ARP KFET  FET          41 27N  096 31W  367   X                7 US
+NE GORDON           KGRN  GRN          42 48N  102 11W 1086   X                8 US
 NE GRAND ISLAND     KGRI  GRI   72552  40 58N  098 19W  561   X     T     A    6 US
 NE GRAND ISLAND/WFO KGID  GID          40 58N  098 19W  563                  F 8 US
 NE HASTINGS         KHSI  HSI          40 36N  098 26W  591   X           A    7 US
@@ -2426,7 +2515,7 @@ NJ SOMERVILLE       KN52  N52          40 37N  074 40W   30   Z                8
 NJ SUSSEX           KN63  N63          41 12N  074 36W  119   Z                8 US
 NJ SOMERVILLE       KSJB  SJB          40 37N  074 40W   30   Z                8 US
 
-NEW MEXICO         28-FEB-12
+NEW MEXICO         24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 NM GALLUP           KGUP  GUP          35 31N  108 48W 1971   X     T     A    6 US
 NM ALAMOGORDO WHITE KALM  ALM   72269  32 49N  105 58W 1279   X     S          6 US
@@ -2468,6 +2557,7 @@ NM RATON            KRTN  RTN          36 44N  104 30W 1936   X           A    7
 NM ROSWELL          KROW  ROW   72268  33 18N  104 30W 1112   X     T     A    4 US
 NM SIERRA B/RUIDOSO KSRR  SRR          33 28N  105 31W 2076   X                7 US
 NM SANTA FE         KSAF  SAF          35 37N  106 06W 1930   X     T     A    1 US
+NM SANTA ROSA US66  KSXU  SXU          34 56N  104 39W 1460   X                7 US
 NM SANTA TERESA/88D KEPZ  EPZ   72364  31 52N  106 42W 1251      X     X     F 8 US
 NM SANTA TERESA     K5T6  5T6          31 53N  106 42W 1253   X           W    8 US
 NM SILVER CITY      KSVC  SVC   72272  32 38N  108 09W 1659   X           W    8 US
@@ -2489,11 +2579,11 @@ NM TATUM NM 2SW     XTAT               33 14N  103 21W 1225   X           M    9
 NM DORA 2SW         XDR1               33 55N  103 21W 1317   X           M    9 US
 NM HOBBS 5NW        XHO1               32 46N  103 11W 1125   X           M    9 US
 
-NEVADA             10-FEB-12
+NEVADA             24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 NV AUSTIN           KU31  U31          39 30N  117 04W 2014   X                7 US
 NV BATTLE MOUNTAIN  KB23  B23          40 36N  116 52W 1381   X                7 US
-NV BATTLE MTN (VOR) KBAM  BAM          40 34N  116 55W 1381   Z     V          8 US
+NV BATTLE MTN (VOR) KBAM  BAM          40 34N  116 55W 1381   X     V          8 US
 NV BEATTY           KBTY  BTY          36 48N  116 44W  892         V          8 US
 NV BOULDER CITY     KBVU  BVU          35 57N  114 52W  671   X           W    8 US
 NV CARSON CITY      KCXP  CXP          39 11N  119 44W 1435   X     T     W    8 US
@@ -2506,6 +2596,7 @@ NV ELY              KELY  ELY   72486  39 18N  114 51W 1906   X     U     A    3
 NV EUREKA           K05U  05U          39 36N  116 00W 1816   X           A    7 US
 NV EUREKA           KP68  P68          39 36N  116 00W 1809   X                9 US
 NV FALLON NAS       KNFL  NFL          39 25N  118 42W 1199   X     T          6 US
+NV HAWTHORNE        KHTH  HTH          38 33N  118 38W 1285   X                8 US
 NV INDIAN SPRINGS   KINS  INS          36 35N  115 40W  955   X     T          8 US
 NV IND SPRNG RANGE  KL63  L63   69017  36 31N  115 34W  972   X                7 US
 NV LAS VEGAS        KLAS  LAS   72386  36 04N  115 10W  636   X     U     A    2 US
@@ -2514,6 +2605,7 @@ NV LAS VEGAS/NELSON KESX  ESX          35 42N  114 53W 1483      X             8
 NV VEGAS/HENDERSON  KHND  HND          35 59N  115 08W  749   X     T          6 US
 NV LAS VEGAS/WFO    KVEF  VEF   72388  36 03N  115 11W  694            X     F 8 US
 NV LOVELOCK         KLOL  LOL   72580  40 04N  118 34W 1189   X     T     A    6 US
+NV MINDEN           KMEV  MEV          39 00N  119 45W 1442   X                8 US
 NV NORTH LAS VEGAS  KVGT  VGT          36 13N  115 12W  671   X     T          6 US
 NV RENO             KRNO  RNO   72488  39 30N  119 46W 1342   X     T     A    2 US
 NV RENO/WFO         KREV  REV   72489  39 34N  119 48W 1516            X     F 8 US
@@ -2529,13 +2621,12 @@ NV WINNEMUCCA       KWMC  WMC   72583  40 54N  117 48W 1310   X     T     A    3
 NV YUCCA FLATS      KYUC  YUC          36 57N  116 02W 1198                    8 US
 NV YUCCA FLAT       KUCC  UCC   72385  36 57N  116 03W 1195                    8 US
 NV CALIENTE         KP38  P38   72487  37 37N  114 32W 1333   Z                8 US
-NV HAWTHORNE        KHTH  HTH          38 33N  118 38W 1285   Z                8 US
 NV INDIAN SPRINGS   KL76  L76   69018  36 32N  115 34W 1153   Z                8 US
 NV JACKPOT          K06U  06U          41 59N  114 39W 1589   Z                8 US
 NV OWYHEE           KOWY  OWY   72587  41 57N  116 06W 1645   Z                8 US
 NV TONOPAH MILITARY KTNX  TNX          37 47N  116 46W 1691   Z                8 US
 
-NEW YORK           03-DEC-13
+NEW YORK           24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 NY ALBANY           KALB  ALB   72518  42 45N  073 48W   92   X     U  X  A    3 US
 NY ALBANY/E. BERNE  KENX  ENX          42 35N  074 04W  557      X             8 US
@@ -2589,6 +2680,7 @@ NY SARATOGA SPRINGS K5B2  5B2          43 03N  073 52W  132   X           W    8
 NY SCHENECTADY AIRP KSCH  SCH          42 51N  073 55W  115   X                7 US
 NY SHIRLEY          KHWV  HWV          40 49N  072 52W   21   X           A    7 US
 NY SIDNEY           KN23  N23          42 18N  075 25W  313   X           W    8 US
+NY SKANEATELES      K6B9  6B9          42 55N  076 26W  317   X                7 US
 NY SYRACUSE         KSYR  SYR   72519  43 07N  076 06W  127   X     U     A    3 US
 NY SYRACUSE                     74379  43 07N  076 05W  122         W          8 US
 NY UTICA            KUCA  UCA          43 09N  075 23W  228   X     T     A    4 US
@@ -2613,7 +2705,7 @@ NY STORMVILLE       KSTM  STM          41 32N  073 44W  279   Z                8
 NY WARSAW           KWRS  WRS          42 41N  078 12W  555   Z                8 US
 NY GRIFFISS AFB/88D KRMX  RMX          43 28N  075 27W  154      Z             8 US
 
-OHIO               03-DEC-13
+OHIO               24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 OH AKRON (FULTON)   KAKR  AKR          41 02N  081 28W  363   X           A    7 US
 OH AKRON            KCAK  CAK   72521  40 55N  081 27W  377   X     T     A    6 US
@@ -2623,6 +2715,8 @@ OH ATHENS           KUNI  UNI          39 13N  082 14W  193   X                8
 OH BATAVIA          KI69  I69          39 05N  084 13W  255   X                7 US
 OH BELLAIRE VOR     KAIR  AIR          40 01N  080 49W  430         V          8 US
 OH BELLEFONTAINE    KEDJ  EDJ          40 22N  083 49W  342   X                8 US
+OH CAMBRIDGE        KCDI  CDI          39 59N  081 35W  244   X                8 US
+OH CHILLICOTHE      KRZT  RZT          39 26N  083 01W  193   X                8 US
 OH CINCINNAT/LUNKEN KLUK  LUK          39 06N  084 25W  155   X     T     A    1 US
 OH CLEVELAND        KBKL  BKL          41 32N  081 40W  184   X           A    7 US
 OH CLEVELAND        KCLE  CLE   72524  41 25N  081 51W  233   X  X  U     A  F 3 US
@@ -2633,14 +2727,17 @@ OH COLUMBUS/ST UNIV KOSU  OSU          40 05N  083 05W  280   X     Z     A    7
 OH COLUMBUS/BOLTON  KTZR  TZR          39 54N  083 08W  276   X                8 US
 OH DAYTON           KDAY  DAY   72429  39 54N  084 13W  305   X     T     A    4 US
 OH DAYTON           KMGY  MGY          39 36N  084 14W  289   X           A    7 US
+OH DAYTON-JACKSON   KI19  I19          39 41N  084 00W  290   X                8 US
 OH DEFIANCE         KDFI  DFI          41 20N  084 26W  219   X           A    7 US
 OH DELAWARE         KDLZ  DLZ          40 17N  083 07W  289   X           W    8 US
 OH FINDLAY          KFDY  FDY          41 01N  083 40W  247   X     T     A    6 US
 OH FLAG CITY        KFBC  FBC          41 01N  083 40W  247   X     T     A    6 US
 OH HAMILTON         KHAO  HAO          39 22N  084 31W  188   X           A    7 US
+OH HARRISON         KI67  I67          39 16N  084 46W  178   X                8 US
 OH LANCASTER        KLHQ  LHQ          39 45N  082 40W  260   X           A    7 US
 OH LEBANON          KI68  I68          39 28N  084 15W  274   X           W    8 US
 OH LIMA             KAOH  AOH          40 42N  084 01W  296   X           A    7 US
+OH LONDON           KUYF  UYF          39 56N  083 28W  330   X                8 US
 OH LORAIN/ELYRIA    KLPR  LPR          41 21N  082 11W  241   X           A    7 US
 OH MANSFIELD        KMFD  MFD          40 49N  082 31W  395   X     T     A    6 US
 OH MARION           KMNN  MNN          40 37N  083 04W  301   X           A    7 US
@@ -2649,6 +2746,7 @@ OH MIDDLETOWN/HOOK  KMWO  MWO          39 32N  084 24W  198   X                8
 OH MT VERNON/KNOX   K4I3  4I3          40 20N  082 32W  363   X           W    8 US
 OH NEW PHILADELPHIA KPHD  PHD          40 28N  081 25W  272   X           A    7 US
 OH NEWARK           KVTA  VTA          40 01N  082 28W  268   X           A    7 US
+OH OTTAWA           KOWX  OWX          41 02N  083 59W  233   X                7 US
 OH PORT CLINTON     KPCW  PCW          41 31N  082 52W  178   X                7 US
 OH RAVENA/PORTAGE   KPOV  POV          41 13N  081 15W  365   X           W    7 US
 OH RICKENBACKER ANG KLCK  LCK          39 49N  082 55W  227   X     T          7 US
@@ -2658,6 +2756,7 @@ OH TOLEDO           KTDZ  TDZ          41 34N  083 29W  189   X           A    7
 OH TOLEDO           KTOL  TOL   72536  41 35N  083 48W  210   X     T     A    6 US
 OH VERSAILLES       KVES  VES          40 12N  084 32W  307   X                8 US
 OH WAPAKONETA       KAXV  AXV          40 30N  084 18W  279   X           W    8 US
+OH WASHINGTON COURT KI23  I23          39 34N  083 25W  299   X                8 US
 OH WAUSEON          KUSE  USE          41 37N  084 08W  238   X           W    8 US
 OH WILLOUGHBY       KLNN  LNN          41 40N  081 22W  191   X                7 US
 OH WILMINGTON       KILN  ILN   72426  39 26N  083 48W  322   X  X  T  X  A  F 3 US
@@ -2675,7 +2774,7 @@ OH NEWARK           K2I8  2I8          40 01N  082 28W  268   Z                8
 OH RAVENA/PORTAGE   K29G  29G          41 13N  081 15W  365   Z                8 US
 OH SOUTH BASS ISLA              99434  41 37N  082 10W  177   Z                8 US
 
-OKLAHOMA           04-OCT-13
+OKLAHOMA           24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 OK ADA              KADH  ADH          34 48N  096 40W  308   X                7 US
 OK ARDMORE          KADM  ADM          34 17N  097 01W  232   X     V          4 US
@@ -2694,6 +2793,7 @@ OK CLINTON          KCLK  CLK          35 32N  098 56W  492   X                8
 OK CUSHING          KCUH  CUH          35 57N  096 46W  279   X           W    7 US
 OK DUNCAN           KDUC  DUC          34 28N  097 58W  339   X           W    7 US
 OK DURANT           KDUA  DUA          33 57N  096 24W  213   X           W    7 US
+OK ELK CITY         KELK  ELK          35 26N  099 24W  614   X                7 US
 OK EL RENO MUNI     KRQO  RQO          35 28N  098 00W  432   X           W    8 US
 OK ENID/VANCE AFB   KEND  END          36 19N  097 55W  398   X     U          4 US
 OK ENID/WOODRING    KWDG  WDG          36 22N  097 46W  356   X                7 US
@@ -2750,7 +2850,7 @@ OK EL RENO MUNI     KF28  F28          35 28N  098 00W  432   Z                8
 OK PAGE             KPGO  PGO   72341  34 41N  094 37W  883   Z                8 US
 OK SEMINOLE         KH45  H45          35 16N  096 41W  312   Z                8 US
 
-OREGON             01-JUN-09
+OREGON             24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 OR PORTLAND         KPDX  PDX   72698  45 36N  122 37W    7   X     U     A    2 US
 OR HILLSBORO/PORTLD KHIO  HIO          45 33N  122 57W   68   X     T     A    6 US
@@ -2767,13 +2867,16 @@ OR CORVALLIS MUNI A KCVO  CVO          44 30N  123 16W   75   X                7
 OR EUGENE           KEUG  EUG   72693  44 08N  123 13W  114   X     U     A    1 US
 OR FLORENCE MUNI    K6S2  6S2          43 59N  124 07W   16   X           W    7 US
 OR GOLD BEACH       K4S1  4S1          42 25N  124 25W    5   X                7 US
+OR GRANTS PASS      K3S8  3S8          42 31N  123 23W  345   X                7 US
 OR HERMISTON        KHRI  HRI          45 50N  119 16W  195   X           A    7 US
+OR HOOD RIVER       K4S2  4S2          45 40N  121 32W  195   X                7 US
 OR JACKSON CTY/MFR  KMAX  MAX          42 05N  122 43W 2290      X             8 US
 OR JOHN DAY STATE   KGCD  GCD          44 23N  118 58W 1127   X                7 US
 OR KIMBERLY/VOR     KIMB  IMB          44 39N  119 43W 1700         Z          8 US
 OR KLAMATH FALLS    KLMT  LMT          42 09N  121 43W 1246   X     T     A    6 US
 OR LA GRANDE        KLGD  LGD          45 16N  118 00W  827   X           W    7 US
 OR LAKEVIEW         KLKV  LKV          42 10N  120 24W 1441   X     V          6 US
+OR MADRAS           KS33  S33          44 40N  121 09W  743   X                7 US
 OR MCMINNVILLE      KMMV  MMV          45 12N  123 08W   48   X           A    7 US
 OR MEACHAM          KMEH  MEH          45 31N  118 25W 1136   X           A    7 US
 OR MEDFORD          KMFR  MFR   72597  42 23N  122 52W  396   X     T  X  A  F 0 US
@@ -2786,6 +2889,7 @@ OR PENDLETON        KPDT  PDT   72688  45 42N  118 50W  462   X  X  U     A  F 2
 OR PORTLD/SCAPPOOSE KRTX  RTX          45 43N  122 58W  479      X             8 US
 OR PORTLAND/WFO     KPQR  PQR          45 34N  122 32W    7                  F 8 US
 OR PORTLAND/RFC     KPTR  PTR          45 36N  122 36W   24                  R 8 US
+OR PRINEVILLE       KS39  S39          44 17N  120 54W  991   X                7 US
 OR REDMOND          KRDM  RDM          44 15N  121 09W  938   X     T          6 US
 OR REDMOND(VOR)     KDSD  DSD          44 15N  121 18W  938         V          8 US
 OR ROME             KP88  P88          42 53N  117 39W 1162   X                7 US
@@ -2812,13 +2916,14 @@ OR PACIFIC CITY     KPFC  PFC          45 12N  123 57W    5   Z                8
 OR SCAPPOOSE        K1S4  1S4          45 46N  122 52W   14   Z                8 US
 OR TILLAMOOK        KS47  S47          45 25N  123 49W   11   Z                9 US
 
-PENNSYLVANIA       28-FEB-12
+PENNSYLVANIA       24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 PA ALLENTOWN        KABE  ABE   72517  40 39N  075 27W  114   X     T     A    6 US
 PA ALLENTOWN QUEEN  KXLL  XLL          40 34N  075 29W  122   X                8 US
 PA ALTOONA          KAOO  AOO          40 18N  078 19W  455   X     T     A    6 US
 PA AVOCA/WILKES B.  KAVP  AVP   72513  41 20N  075 43W  291   X     T     A    6 US
 PA BEAVER FALLS ARP KBVI  BVI          40 46N  080 24W  382   X     T          6 US
+PA BEDFORD          KHMZ  HMZ          40 05N  078 31W  355   X                8 US
 PA BRADFORD         KBFD  BFD          41 48N  078 38W  647   X     T     A    6 US
 PA BUTLER CO.       KBTP  BTP          40 46N  079 57W  380   X           W    7 US
 PA CLEARFIELD       KFIG  FIG          41 03N  078 25W  462   X           A    7 US
@@ -2830,20 +2935,22 @@ PA ELLWOOD CITY VOR KEWC  EWC          40 50N  080 13W  407         V          8
 PA ERIE             KERI  ERI   72526  42 05N  080 11W  222   X     U     A    4 US
 PA FOUNTAIN DALE    KRYT               39 44N  077 26W  274   X                8 US
 PA FRANKLIN         KFKL  FKL          41 22N  079 52W  469   X     T     W    6 US
-PA GROVE CITY       K29D  29D          41 09N  081 10W  418   X           W    7 US
+PA GROVE CITY       K29D  29D          41 09N  080 10W  418   X           W    7 US
 PA HARRISBURG       KCXY  CXY          40 13N  076 51W  106   X           A    7 US
 PA HARRISBURG       KHAR  HAR   72511  40 18N  077 04W  397         V          8 US
+PA HAZLETON         KHZL  HZL          40 59N  076 00W  489   X                8 US
 PA INDIANA/STEWART  KIDI  IDI          40 37N  079 05W  429   X                7 US
 PA JOHNSTOWN        KJST  JST          40 19N  078 50W  694   X     U     A    6 US
 PA LANCASTER        KLNS  LNS          40 07N  076 18W  125   X     T     A    7 US
 PA LATROBE/WESTMORL KLBE  LBE          40 16N  079 24W  361   X     T          6 US
+PA LEHIGHTON        K22N  22N          40 49N  075 46W  163   X                8 US
 PA LOCK HAVEN       KLHV  LHV          41 08N  077 25W  170   X           W    7 US
 PA MEADVILLE        KGKJ  GKJ          41 38N  080 13W  428   X           A    7 US
 PA MIDDLETOWN       KMDT  MDT          40 12N  076 46W   95   X     T     A    6 US
 PA MT. POCONO       KMPO  MPO          41 08N  075 23W  577   X           A    7 US
 PA MUIR AAF/INDIANT KMUI  MUI          40 25N  076 34W  149   X     T          6 US
 PA NEW CASTLE MUNI  KUCP  UCP          41 02N  080 25W  327   X                8 US
-PA PERKASIE         KCKZ  CKZ          40 23N  075 17W  173   Z           W    7 US
+PA PERKASIE         KCKZ  CKZ          40 23N  075 17W  173   X           W    7 US
 PA PHILADELPHIA     KPHL  PHL   72408  39 52N  075 14W   18   X     T     A    3 US
 PA PHILADELPHIA/NE  KPNE  PNE          40 05N  075 01W   28   X     T     A    4 US
 PA PHILLY WINGS F   KLOM  LOM          40 08N  075 16W   92   X           W    7 US
@@ -2856,12 +2963,14 @@ PA QUAKERTOWN ARP   KUKT  UKT          40 26N  075 23W  160   X           W    7
 PA READING          KRDG  RDG          40 22N  075 58W  109   X     T     A    6 US
 PA RUSH/ST COLLEGE  KCCX  CCX          40 55N  078 00W  733      X             8 US
 PA SELINSGROVE      KSEG  SEG          40 49N  076 52W  134   X           A    7 US
+PA SOMERSET         K2G9  2G9          40 02N  079 01W  694   X                8 US
 PA SLATE RUN        KSLT  SLT          41 30N  077 58W  707         V          8 US
-PA STATE COLLEGE    KUNV  UNV          40 51N  077 50W  378   X     T          3 US
+PA STATE COLLEGE    KUNV  UNV          40 51N  077 51W  378   X     T          3 US
 PA STATE COLLEG/WFO KCTP  CTP          40 51N  077 51W  389                  F 8 US
 PA STATE COLLEG/RFC KRHA  RHA          40 51N  077 51W  389                  R 8 US
 PA TOWANDA          KN27  N27          41 44N  076 27W  223   X           W    7 US
 PA WASHINGTON       KAFJ  AFJ          40 07N  080 16W  361   X           W    7 US
+PA WELLSBORO        KN38  N38          41 44N  077 24W  577   X                8 US
 PA WEST CHESTER     KOQN  OQN          39 59N  075 35W  142   X           W    7 US
 PA WILLIAMSPORT     KIPT  IPT   72514  41 15N  076 55W  164   X     T     A    6 US
 PA YORK             KTHV  THV          39 55N  076 53W  144   X           A    7 US
@@ -2884,9 +2993,10 @@ RI WESTERLY         KWST  WST          41 21N  071 48W   21   X           A    7
 RI NEWPORT          K2B4  2B4          41 32N  071 17W   52   Z                8 US
 RI WOONSOCKET       K1B6  1B6          41 55N  071 31W   35   Z                8 US
 
-SOUTH CAROLINA     30-APR-13
+SOUTH CAROLINA     24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 SC AIKEN            KAIK  AIK          33 39N  081 41W  161   X                8 US
+SC ALLENDALE        KAQX  AQX          33 00N  081 16W   50   X                8 US
 SC ANDERSON         KAND  AND          34 30N  082 43W  239   X     T     A    6 US
 SC BARNWELL         KBNL  BNL          33 15N  081 23W   75   X                7 US
 SC BEAUFORT MCAS    KNBC  NBC          32 28N  080 43W   12   X     T          6 US
@@ -3063,7 +3173,7 @@ SD HARRISBURG       QHBS               43 25N  096 42W  380   X           S    9
 SD MARION           QMRS               43 23N  097 17W  451   X           S    9 US
 SD PLATTE           QPTS               43 23N  098 51W  488   X           S    9 US
 
-TENNESSEE          03-DEC-13
+TENNESSEE          24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 TN ATHENS/MCMINN    KMMI  MMI          35 24N  084 34W  266   X           W    7 US
 TN BOLIVAR/WHITEHST KM08  M08          35 13N  089 03W  152   X                7 US
@@ -3076,6 +3186,7 @@ TN COLLEGEDALE      K3M3  3M3          35 03N  085 01W  262   X           W    8
 TN COLUMBIA         KMRC  MRC          35 33N  087 11W  208   X                8 US
 TN COVINGTON MUNI   KM04  M04          35 35N  089 35W   85   X                7 US
 TN CROSSVILLE       KCSV  CSV          35 57N  085 05W  570   X     T     A    6 US
+TN DAYTON           K2A0  2A0          35 29N  084 56W  219   X                7 US
 TN DEWITT SPAIN/MEM KM01  M01          35 12N  090 03W   69   X           W    8 US
 TN DICKSON          KM02  M02          36 08N  087 26W  272   X                8 US
 TN DYERSBURG        KDYR  DYR          36 00N  089 24W  103   X     V          6 US
@@ -3085,13 +3196,17 @@ TN FRANKLIN WILKINS KM52  M52          35 39N  088 23W  157   X                7
 TN GALLATIN         KM33  M33          36 23N  086 25W  178   X                8 US
 TN HOLSTON MTN VOR  KHMV  HMV          36 26N  082 08W 1317         V          8 US
 TN HUNTINGDON       KHZD  HZD          36 05N  088 28W  151   X                7 US
+TN JACKSBORO        KJAU  JAU          36 20N  084 10W  360   X                7 US
 TN JACKSON          KMKL  MKL          35 36N  088 55W  128   X     T     A    6 US
 TN KNOXVILLE        KTYS  TYS   72326  35 49N  083 59W  302   X     T     A    4 US
 TN KNOXVILLE VOR    KVXV  VXV          35 54N  083 53W  302         V          8 US
+TN KNOXVILLE        KDKX  DKX          35 58N  083 52W  254   X                8 US
 TN LAWRENCEBURG     K2M2  2M2          35 14N  087 15W  286   X           W    8 US
 TN LEBANON          KM54  M54          36 11N  086 19W  180   X                8 US
 TN LEWISBURG        KLUG  LUG          35 30N  086 48W  219   X                8 US
+TN LEXINGTON-PARSON KPVE  PVE          35 39N  088 11W  149   X                7 US
 TN LIVINGSTON       K8A3  8A3          36 25N  085 19W  419   X                8 US
+TN MADISONVILLE     KMNV  MNV          35 33N  084 23W  314   X                8 US
 TN MCMINNVILLE      KRNC  RNC          35 42N  085 51W  315   X                8 US
 TN MEMPHIS          KMEM  MEM   72334  35 04N  089 59W   86   X     U     A    2 US
 TN MEMPHIS/WFO      KMEG  MEG          35 03N  090 00W  101                  F 8 US
@@ -3099,6 +3214,7 @@ TN MEMPHIS/ARTCC    KZME  ZME          35 03N  089 59W  101         A          8
 TN MILLINGTON/88D   KNQA  NQA          35 21N  089 52W   86   X  X             5 US
 TN MILLINGTON       K2M8  2M8          35 17N  089 56W   75   X           W    8 US
 TN MORRISTOWN/KNOX  KMRX  MRX          36 10N  083 24W  408      X           F 8 US
+TN MORRISTOWN/MOORE KMOR  MOR          36 11N  083 23W  401   X                8 US
 TN MURFREESBORO     KMBT  MBT          35 53N  086 23W  188   X                8 US
 TN NASHVILLE        KBNA  BNA   72327  36 07N  086 41W  210   X     U  X  A    2 US
 TN NASHV/JC TUNE    KJWN  JWN          36 11N  086 53W  151   X                8 US
@@ -3106,18 +3222,22 @@ TN OAK RIDGE        KOQT  OQT          36 01N  084 14W  277   X           A    7
 TN OLD HICKORY/NASH KOHX  OHX          36 15N  086 34W  176      X           F 8 US
 TN PARIS HENRY CTY  KPHT  PHT          36 20N  088 23W  177   X                7 US
 TN PORTLAND         K1M5  1M5          36 36N  086 29W  250   X                8 US
+TN PULASKI          KGZS  GZS          35 09N  087 03W  210   X                8 US
 TN ROCKWOOD         KRKW  RKW          35 55N  084 41W  508   X                8 US
 TN SAVANNAH HARDIN  KSNH  SNH          35 10N  088 13W  144   X                7 US
+TN SEVIERVILLE      KGKT  GKT          35 51N  083 32W  309   X                8 US
 TN SHELBYVILLE      KSYI  SYI          35 34N  086 27W  245   X                8 US
 TN SMYRNA           KMQY  MQY          36 01N  086 31W  166   X                7 US
+TN SOMERVILLE       KFYE  FYE          35 12N  089 24W  133   X                8 US
 TN SPARTA           KSRB  SRB          36 03N  085 32W  313   X                8 US
+TN SPRINGFIELD      KM91  M91          36 32N  086 55W  216   X                8 US
 TN TULLAHOMA        KTHA  THA          35 23N  086 15W  331   X                8 US
 TN UNION CITY       KUCY  UCY          36 23N  088 59W  104   X                7 US
 TN WINCHESTER       KBGF  BGF          35 11N  086 04W  299   X                8 US
 TN MONTEAGLE        KMGL  MGL          35 15N  085 51W  586   Z                8 US
-TN SELMER           KSZY  SZY          35 12N  088 30W  100   Z                8 US
+TN SELMER           KSZY  SZY          35 12N  088 30W  100   X                8 US
 
-TEXAS              16-DEC-13
+TEXAS              24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 TX DALLAS/FT WORTH  KDFW  DFW   72259  32 54N  097 01W  174   X     T     A    0 US
 TX ABILENE          KABI  ABI   72266  32 25N  099 41W  548   X     U     A    4 US
@@ -3136,6 +3256,7 @@ TX BEAUMONT/PORT AR KBPT  BPT   72241  29 57N  094 02W    5   X     T     A    6
 TX BEAUMONT         KBMT  BMT          30 04N  094 13W   10   X           A    8 US
 TX BEEVILLE MUNI    KBEA  BEA          28 22N  097 47W   82   X           W    8 US
 TX BIG SPRING       KBPG  BPG          32 13N  101 31W  784   X           W    8 US
+TX BONHAM           KF00  F00          33 37N  096 11W  189   X                8 US
 TX BORGER           KBGD  BGD          35 42N  101 24W  927   X           A    7 US
 TX BOWIE            K0F2  0F2          33 36N  097 47W  336   X                8 US
 TX BRADY            KBBD  BBD          31 11N  099 19W  557   X     T     W    8 US
@@ -3149,14 +3270,18 @@ TX BURNET           KBMQ  BMQ          30 44N  098 14W  389   X           A    7
 TX CALDWELL         KRWV  RWV          30 31N  096 42W  119   X           W    8 US
 TX CANADIAN         KHHF  HHF          35 54N  100 24W  712   X           W    7 US
 TX CAMERON          KT35  T35          30 53N  096 58W  123   X           W    8 US
+TX CARRIZO SPRINGS  KCZT  CZT          28 31N  099 49W  183   X                8 US
 TX CASTROVILLE MUNI KCVB  CVB          29 21N  098 51W  235   X                8 US
+TX CENTER           KF17  F17          31 50N  094 09W   92   X                8 US
 TX CENTEX (AUSTIN)  KCWK  CWK          30 23N  097 32W  181         V          8 US
 TX CHILDRESS        KCDS  CDS          34 26N  100 17W  594   X     U     A    3 US
+TX CISCO            KGZN  GZN          32 22N  099 01W  522   X                8 US
 TX CLARKSVILLE      KLBR  LBR          33 36N  095 04W  134   X           W    7 US
 TX CLEBURNE         KCPT  CPT          32 21N  097 26W  260   X           W    7 US
 TX CLEVELAND MUNI   K6R3  6R3          30 21N  095 00W   46   X                8 US
 TX COLEMAN MUNI     KCOM  COM          31 50N  099 24W  517   X           W    7 US
 TX COLLEGE STATION  KCLL  CLL          30 35N  096 22W   96   X     T     A    4 US
+TX COLUMBUS         K66R  66R          29 38N  096 31W   74   X                8 US
 TX COMANCHE         KMKN  MKN          31 55N  098 36W  423   X           W    8 US
 TX CONROE           KCXO  CXO          30 21N  095 25W   75   X     T     A    8 US
 TX CORPUS CHRISTI   KCRP  CRP   72251  27 46N  097 30W   14   X  X  U  X  A  F 2 US
@@ -3177,7 +3302,8 @@ TX DIMMIT           KFTN  FTN          28 13N  100 01W  236   X           W    8
 TX DRYDEN           K6R6  6R6          30 03N  102 13W  701   X           A    7 US
 TX DUMAS/MOORE CTY  KDUX  DUX          35 51N  102 01W 1129   X           W    7 US
 TX DYESS AFB/ABILEN KDYS  DYS   69019  32 25N  099 50W  545   X     T          6 US
-TX EASTLAND         KETN  ETN          32 25N  098 49W  448                    8 US
+TX EAGLE LAKE       KELA  ELA          29 36N  096 19W   57   X                7 US
+TX EASTLAND         KETN  ETN          32 25N  098 49W  448   X                8 US
 TX EDINBURG INTL    KEBG  EBG          26 27N  098 08W   24   X           W    7 US
 TX EL PASO          KELP  ELP   72270  31 49N  106 23W 1197   X     U     A    2 US
 TX FALFURRIAS       KBKS  BKS          27 12N  098 07W   34   X           W    8 US
@@ -3240,6 +3366,7 @@ TX KERRVILLE        KERV  ERV          29 59N  099 05W  510   X           W    8
 TX KICKAPOO         KCWC  CWC          33 51N  098 29W  305   X                8 US
 TX KILLEEN MUNI     KILE  ILE          31 04N  097 40W  258   X           W    7 US
 TX KINGSVILLE NAS   KNQI  NQI          27 30N  097 49W   15   X     T          6 US
+TX KINGSVILLE       KIKG  IKG          27 33N  098 02W   40   X                8 US
 TX LA GRANGE        K3T5  3T5          29 54N  096 57W   99   X           W    7 US
 TX LAGO VISTA       KRYW  RYW          30 30N  097 58W  376   X           W    8 US
 TX LAMPASAS         KLZZ  LZZ          31 06N  098 12W  371   X                8 US
@@ -3309,6 +3436,7 @@ TX SHERMAN/DENISON  KGYI  GYI          33 43N  096 40W  228   X           W    7
 TX SNYDER/WINSTON   KSNK  SNK          32 42N  100 57W  741   X           A    7 US
 TX SONORA           KSOA  SOA          30 35N  100 39W  652   X     T     W    7 US
 TX SOUTH PADRE IS   KSPL  SPL          26 04N  097 09W    4   X           W    8 US
+TX SPOFFORD         KT70  T70          29 07N  100 28W  306   X                7 US
 TX STEPHENVILLE     KSEP  SEP   72260  32 13N  098 10W  402   X        Z  W    7 US
 TX SULPHUR SPRINGS  KSLR  SLR          33 10N  095 37W  149   X           W    8 US
 TX SWEETWATER       KSWW  SWW          32 28N  100 28W  727   X           W    8 US
@@ -3464,26 +3592,49 @@ TX LOMAX 1SSE       XLO1               32 06N  101 38W  765   X           M    9
 TX AMARILLO 9NNE    XAM2               35 20N  101 48W 1020   X           M    9 US
 TX AIKEN 3WSW       XAI1               34 08N  101 34W 1012   X           M    9 US
 TX MERTZON          XME1               31 18N  100 49W  663   X           M    9 US
+TX SWEETWATER 11SW  XSW1               32 21N  100 32W  758   X           M    9 US
+TX AMARILLO 15NNW   XAM3               35 25N  101 56W 1013   X           M    9 US
+TX BOYS RANCH 1WSW  XBY1               35 32N  102 16W  977   X           M    9 US
+TX FORT CHADBOURNE  XCH1               32 02N  100 15W  613   X           M    9 US
+TX CLYDE 2WNW       XCL2               32 25N  099 32W  615   X           M    9 US
+TX CROWELL 1E       XCR1               33 59N  099 43W  452   X           M    9 US
+TX DELL CITY 1N     XDC1               31 57N  105 12W 1131   X           M    9 US
+TX DOZIER 3W        XDO1               35 05N  100 23W  691   X           M    9 US
+TX HESPERUS 4SSW    XFL1               37 14N  108 03W 2361   X           M    9 US
+TX GOODNIGHT        XGO1               35 02N  101 11W  962   X           M    9 US
+TX FORT LANCASTER   XLA1               30 40N  101 41W  648   X           M    9 US
+TX FORT MCKAVETT    XMC1               32 21N  100 32W  664   X           M    9 US
+TX MCCAMEY 1SSW     XMC4               31 07N  102 14W  742   X           M    9 US
+TX MENARD 2NW       XMD1               30 56N  099 49W  587   X           M    9 US
+TX NEW HOME         XNH1               33 20N  101 55W  989   X           M    9 US
+TX PANHANDLE 1SSW   XPA1               35 20N  101 23W 1054   X           M    9 US
+TX CANYON 16ESE     XPD2               34 56N  101 38W  865   X           M    9 US
+TX SIERRA BLANCA    XSB1               31 10N  105 21W 1390   X           M    9 US
+TX STAMFORD 5ESE    XST2               32 55N  099 43W  473   X           M    9 US
+TX STINNETT 1NNW    XST3               35 51N  101 27W 1013   X           M    9 US
+TX TARZAN 2WNW      XTA1               32 19N  102 00W  866   X           M    9 US
+TX VIGO PARK        XVP1               34 39N  101 30W 1035   X           M    9 US
+TX WELCH            XWE2               32 56N  102 08W  951   X           M    9 US
+TX SNYDER 3SSW      XWT1               32 41N  100 56W  726   X           M    9 US
+TX THROCKMORTON 1SW XTH1               33 10N  099 11W  420   X           M    9 US
 TX RALLS 1SE        XRAS               33 40N  101 23W  944   Z                9 US
 
 UTAH               16-DEC-13
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 UT SALT LAKE CITY   KSLC  SLC   72572  40 46N  111 58W 1286   X     U  X  A  F 0 US
-UT BLANDING         K4BL  4BL   72472  37 37N  109 28W 1840   X                7 US
-UT BLANDING         KBDG  BDG          37 35N  109 29W 1789                    7 US
+UT BLANDING         KBDG  BDG   72472  37 35N  109 29W 1789   X                7 US
 UT BONNEVILLE       KBVL  BVL          40 43N  113 45W 1286         V          8 US
+UT BRIGHAM CITY     KBMC  BMC          41 33N  112 04W 1290   X                8 US
 UT BRYCE CANYON     KBCE  BCE          37 42N  112 09W 2312   X     U     A    6 US
 UT CEDAR CITY       KCDC  CDC          37 42N  113 06W 1714   X     T     A    4 US
 UT CEDAR CITY/88D   KICX  ICX          37 35N  112 52W 3231      X             8 US
-UT DELTA            KU24  U24   72479  39 20N  112 35W 1414   X                7 US
-UT DELTA            KDTA  DTA          39 18N  112 30W 1402         V          8 US
+UT DELTA            KDTA  DTA   72479  39 18N  112 30W 1402   X     V          8 US
 UT DUGWAY PRVG GROU KDPG  DPG   74003  40 12N  112 55W 1326   X                3 US
 UT EAGLE RANGE      KU16  U16   72430  41 03N  113 04W 1292   X                8 US
 UT EAGLE RANGE                  69430  41 03N  113 04W 1292                    8 US
 UT ELDER COUNTY/SLC KMTX  MTX          41 16N  112 27W 1969      X             8 US
 UT GREEN RIVER RANG KU28  U28   72477  39 00N  110 10W 1241   X                7 US
-UT HANKSVILLE       K4HV  4HV   72473  38 22N  110 43W 1314   X                7 US
-UT HANKSVILLE       KHVE  HVE          38 25N  110 42W 1350         V          8 US
+UT HANKSVILLE       KHVE  HVE   72473  38 25N  110 42W 1350   X     V          8 US
 UT HEBER/RUSS MCDON K36U  36U          40 29N  111 26W 1718   X     T          8 US
 UT HILL AFB/OGDEN   KHIF  HIF          41 07N  111 58W 1459   X     T          6 US
 UT LOGAN            KLGU  LGU          41 47N  111 51W 1355   X     T     A    6 US
@@ -3494,26 +3645,36 @@ UT OGDEN            KOGD  OGD   72575  41 12N  112 01W 1353   X     T     A    1
 UT PRICE            KPUC  PUC   72470  39 37N  110 45W 2091   X           A    7 US
 UT PROVO MUNI       KPVU  PVU          40 13N  111 43W 1369   X     T     W    6 US
 UT RICHFIELD        KRIF  RIF          38 44N  112 06W 1616                    8 US
-UT ROOSEVELT        KU67  U67   74420  40 17N  109 58W 1556   X                7 US
+UT ROOSEVELT        K74V  74V   74420  40 17N  110 03W 1578   X                7 US
 UT SAINT GEORGE     KSGU  SGU          37 04N  113 31W  896   X     T     W    6 US
 UT SAINT GEORGE     KDXZ  DXZ          37 05N  113 36W  896   X     T          8 US
 UT SALT LAKE MUNI   KU42  U42          40 37N  111 59W 1402   X                8 US
 UT SALT LAKE/ARTCC  KZLC  ZLC          40 46N  111 57W 1287         A          8 US
 UT SLC RFC=KSLR                        40 46N  111 57W 1287                  R 9 US
 UT TOOELE           KT62  T62          40 19N  112 17W 1628   X                7 US
+UT TOOELE           KTVY  TVY          40 37N  112 21W 1317   X                7 US
 UT VERNAL           KVEL  VEL          40 27N  109 31W 1604   X     T     A    6 US
 UT WENDOVER (AUT)   KENV  ENV   72581  40 43N  114 01W 1292   X     T          4 US
+UT BLANDING         K4BL  4BL          37 37N  109 28W 1840   Z                7 US
 UT BULLFROG(AWRS)   KU17  U17          37 30N  110 42W 1110   Z                8 US
+UT DELTA            KU24  U24          39 20N  112 35W 1414   Z                7 US
+UT HANKSVILLE       K4HV  4HV          38 22N  110 43W 1314   Z                7 US
 UT JOSEPH           K7LI  7LI          38 38N  112 12W 1829   Z                8 US
+UT ROOSEVELT        KU67  U67          40 17N  109 58W 1556   Z                7 US
 
-VIRGINIA           01-SEP-10
+VIRGINIA           24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 VA ROANOKE          KROA  ROA   72411  37 19N  079 58W  362   X     T     A    3 US
 VA ABINGDON         KVJI  VJI          36 40N  082 01W  631   X                7 US
 VA BLACKSBURG/VA T. KBCB  BCB          37 13N  080 25W  650   X     T          7 US
+VA BROOKNEAL        K0V4  0V4          37 09N  079 01W  182   X                8 US
+VA BUMPASS          K7W4  7W4          37 58N  077 45W  107   X                7 US
 VA CASSANOVA VOR    KCSN  CSN          38 38N  077 52W  148         V          8 US
 VA CHARLOTTESVILLE  KCHO  CHO          38 08N  078 27W  192   X     T     A    6 US
+VA CHASE CITY       KCXE  CXE          36 47N  078 30W  154   X                7 US
 VA CHESAPEAKE       KCPK  CPK   99402  36 40N  076 19W    6   X           W    7 US
+VA CLARKSVILLE      KW63  W63          36 36N  078 34W  128   X                7 US
+VA CREWE            KW81  W81          37 11N  078 06W  127   X                7 US
 VA CULPEPER         KCJR  CJR          38 32N  077 52W   97   X                7 US
 VA DANVILLE         KDAN  DAN          36 34N  079 20W  175   X     T     A    6 US
 VA DUBLIN/NEW RIV   KPSK  PSK          37 07N  080 40W  642   X     V          6 US
@@ -3521,13 +3682,17 @@ VA EMPORIA          KEMV  EMV          36 41N  077 29W   39   X           W    8
 VA FARMVILLE        KFVX  FVX          37 21N  078 25W  125   X                7 US
 VA FENTRESS NAVAL   KNFE  NFE          36 42N  076 08W    5   X                7 US
 VA FORT BELVOIR/DAV KDAA  DAA          38 43N  077 10W   21   X     T          6 US
+VA FORT ROYAL       KFRR  FRR          38 55N  078 15W  215   X                7 US
 VA FRANKLIN/J B ROS KFKN  FKN          36 42N  076 54W   12   X                7 US
 VA FREDERICKSB/SHAN KEZF  EZF          38 16N  077 27W   26   X                7 US
 VA FT EUSTIS/FELKER KFAF  FAF          37 07N  076 37W    4   X     T          6 US
+VA GORDONSVILLE     KGVE  GVE          38 09N  078 10W  138   X                7 US
 VA HILLSVILLE/GALAX KHLX  HLX          36 46N  080 49W  834   X                7 US
 VA HOT SPRINGS/INGA KHSP  HSP          37 57N  079 49W 1156   X                7 US
 VA JONESVILLE       K0VG  0VG          36 39N  083 13W  430   X                8 US
+VA KENBRIDGE        KW31  W31          36 58N  078 11W  161   X                7 US
 VA LANGLEY AFB/HAMP KLFI  LFI   74598  37 04N  076 22W    3   X     T          6 US
+VA LAWRENCEVILLE    KLVL  LVL          36 46N  077 48W  100   X                7 US
 VA LEESBURG/GODFREY KJYO  JYO          39 04N  077 34W  119   X                7 US
 VA LOUISA           KLKU  LKU          38 01N  077 58W  150   X                7 US
 VA LURAY            KLUA  LUA          38 40N  078 30W  275   X                7 US
@@ -3536,6 +3701,7 @@ VA MANASSAS MUNI    KHEF  HEF          38 43N  077 31W   59   X           W    7
 VA MARION / WYTHEVI KMKJ  MKJ          36 53N  081 20W  780   X                7 US
 VA MARTINSVILLE     KMTV  MTV          36 38N  080 01W  287   X                7 US
 VA MELFA/ACCOMACK   KMFV  MFV          37 38N  075 46W   15   X                7 US
+VA NEW MARKET       K8W2  8W2          38 39N  078 43W  293   X                7 US
 VA NEWPORT NEWS     KPHF  PHF          37 08N  076 30W   12   X     T     A    6 US
 VA NORFOLK NAS/CHAM KNGU  NGU          36 55N  076 16W    5   X     T          6 US
 VA NORFOLK          KORF  ORF   72308  36 54N  076 12W   14   X     U     A    3 US
@@ -3545,11 +3711,14 @@ VA OCEANA NAS/SOUCE KNTU  NTU          36 49N  076 01W    7   X     T          6
 VA ORANGE           KOMH  OMH          38 15N  078 03W  142   X                7 US
 VA PETERSBURG       KPTB  PTB          37 10N  077 31W   59   X           W    7 US
 VA QUANTICO MCAF    KNYG  NYG          38 30N  077 17W    4   X     T          6 US
+VA QUINTON          KW96  W96          37 30N  077 08W   37   X                7 US
 VA RICHMOND/HANOVER KOFP  OFP          37 42N  077 26W   62   X           A    7 US
 VA RICHMOND/CHESTER KFCI  FCI          37 24N  077 31W   72   X                8 US
 VA RICHMOND         KRIC  RIC   72401  37 31N  077 19W   50   X     U     A    4 US
 VA ROANOKE/BLACKSBG KRNK  RNK   72318  37 12N  080 24W  648            X     F 8 US
 VA ROANOKE/FLOYD CY KFCX  FCX          37 01N  080 16W  874      X             8 US
+VA SALUDA           KW75  W75          37 36N  076 27W   10   X                7 US
+VA SOUTH BOSTON     KW78  W78          36 43N  078 51W  128   X                7 US
 VA SOUTH HILL/MECKL KAVC  AVC          36 41N  078 02W  135   X                7 US
 VA STAFFORD REGNL   KRMN  RMN          38 24N  077 27W   65   X           W    7 US
 VA STAUNTON/SHENAND KSHD  SHD          38 16N  078 54W  366   X                7 US
@@ -3560,6 +3729,7 @@ VA TAPPAHANNOCK     KXSA  XSA          37 52N  076 54W   42   X           W    8
 VA WALLOPS ISLAND   KWAL  WAL   72402  37 56N  075 28W   14   X        X  A    5 US
 VA WARRENTON        KHWY  HWY          38 35N  077 43W  103   X           W    8 US
 VA WASH DC/DULLES   KIAD  IAD   72403  38 56N  077 27W   93   X     T  X  A    0 US
+VA WAYNESBORO       KW13  W13          38 05N  078 57W  438   X                7 US
 VA WEST POINT       KFYJ  FYJ          37 31N  076 46W    7   X           W    7 US
 VA WILLIAMSBURG     KJGG  JGG          37 14N  076 43W   15   X           W    7 US
 VA WINCHESTER RGNL  KOKV  OKV          39 08N  078 09W  222   X                7 US
@@ -3595,7 +3765,7 @@ VT WEST BURKE       KVT2  VT2          44 39N  071 59W  274   Z                8
 VT WEST DOVER       KWDO  WDO          42 56N  072 51W  527   Z                8 US
 VT WILMINGTON       KMNW  MNW   74483  42 52N  072 07W  482   Z                8 US
 
-WASHINGTON         30-APR-13
+WASHINGTON         24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 WA ARLINGTON MUNI   KAWO  AWO          48 10N  122 10W   42   X                7 US
 WA BELLINGHAM       KBLI  BLI          48 48N  122 32W   50   X     T     A    6 US
@@ -3622,13 +3792,15 @@ WA OLYMPIA          KOLM  OLM   72792  46 58N  122 54W   58   X     T     A    6
 WA OMAK             KOMK  OMK   72789  48 28N  119 31W  395   X           A    7 US
 WA PASCO            KPSC  PSC          46 16N  119 07W  121   X     T     A    6 US
 WA PORT ANGELES     KCLM  CLM          48 07N  123 30W   85   X     T     A    6 US
+WA PORT TOWNSEND    K0S9  0S9          48 03N  122 49W   37   X                8 US
 WA PULLMAN/MOSCOW   KPUW  PUW          46 45N  117 07W  773   X     T     A    7 US
 WA PUYALLUP/THUN    KPLU  PLU          47 06N  122 17W  164   X                8 US
 WA QUILLAYUTE       KUIL  UIL   72797  47 56N  124 33W   54   X        X  A    2 US
 WA RENTON           KRNT  RNT          47 30N  122 13W   21   X           A    7 US
+WA RICHLAND         KRLD  RLD          46 18N  119 18W  121   X                8 US
 WA SEATTLE/BOEING   KBFI  BFI          47 33N  122 19W    4   X     T     A    1 US
 WA SEATTLE/METRO    KSEA  SEA   72793  47 27N  122 19W  136   X     U     A    0 US
-WA SEATTLE/WFO      KSEW  SEW          47 27N  122 18W  130                  F 8 US
+WA SEATTLE/WFO      KSEW  SEW          47 41N  122 15W    7                  F 8 US
 WA SEATTLE/ARTCC    KZSE  ZSE          47 17N  122 11W   99         A          8 US
 WA SEATTLE/CAMANO I KATX  ATX          48 12N  122 30W  151      X             8 US
 WA SHELTON          KSHN  SHN          47 14N  123 08W   82   X           A    7 US
@@ -3636,6 +3808,7 @@ WA SPOKANE          KOTX  OTX   72786  47 41N  117 38W  727      X     X     F 8
 WA SPOKANE/FELTS    KSFF  SFF          47 41N  117 19W  609   X     T     A    6 US
 WA SPOKANE/METRO    KGEG  GEG   72785  47 37N  117 32W  735   X     U  Z  A    1 US
 WA STAMPEDE PASS    KSMP  SMP          47 17N  121 20W 1208   X           A    3 US
+WA SUNNYSIDE        K1S5  1S5          46 20N  119 58W  234   X                8 US
 WA TACOMA           KTIW  TIW          47 16N  122 35W   89   X           A    7 US
 WA TACOMA/MC CHORD  KTCM  TCM   74206  47 07N  122 28W   98   X     T          6 US
 WA TATOOSH/VOR      KTOU  TOU   99430  48 18N  124 38W  520         V          8 US
@@ -3656,7 +3829,7 @@ WA PEARSON/VANCOUVR K60S  60S          45 37N  122 39W    8   Z                8
 WA YAGABOND AAF     K1YT               46 40N  120 27W  438   X                7 US
 WA WEST POINT (LS)              99435  47 40N  122 34W    3   Z                8 US
 
-WISCONSIN          03-DEC-13
+WISCONSIN          24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 WI ANTIGO/LANGLADE  KAIG               45 09N  089 07W  464   X                7 US
 WI APPLETON/OUTAGAM KATW  ATW          44 16N  088 31W  280   X     T          7 US
@@ -3671,6 +3844,7 @@ WI CLINTONVILLE     KCLI  CLI          44 37N  088 44W  250   X                7
 WI CUMBERLAND       KUBE  UBE          45 30N  091 59W  379   X                7 US
 WI DELLS/BARABOO    KDLL  DLL          43 31N  089 46W  299   X     V          6 US
 WI EAGLE RIVER      KEGV  EGV          45 56N  089 16W  500   X                7 US
+WI EPHRAIM-GILBRALT K3D2  3D2          45 08N  087 11W  233   X                7 US
 WI EAU CLAIRE       KEAU  EAU          44 52N  091 28W  276   X     U     A    4 US
 WI FOND DU LAC      KFLD  FLD          43 46N  088 29W  240   X           A    7 US
 WI HAYWARD          KHYR  HYR          46 01N  091 27W  370   X     T     A    6 US
@@ -3698,6 +3872,7 @@ WI MINERAL POINT    KMRJ  MRJ          42 53N  090 14W  359   X                7
 WI MINOCQUA/WOODRUF KARV  ARV          45 55N  089 43W  496   X                7 US
 WI MONROE           KEFT  EFT          42 37N  089 36W  331   X                7 US
 WI MOSINEE/CENTRAL  KCWA  CWA          44 47N  089 40W  389   X     T          6 US
+WI NEW LISBON       K82C  82C          43 50N  090 08W  277   X                7 US
 WI NEW RICHMOND MUN KRNH  RNH          45 09N  092 32W  304   X     T     W    7 US
 WI OCONTO           KOCQ  OCQ          44 52N  087 55W  183   X                7 US
 WI OSCEOLA          KOEO  OEO          45 19N  092 42W  275   X                7 US
@@ -3712,6 +3887,7 @@ WI RICE LAKE        KRPD  RPD          45 25N  091 46W  338   X                7
 WI SHAWANO MUNI     KEZS  EZS          44 47N  088 34W  248   X           W    8 US
 WI SHEBOYGAN        KSBM  SBM   99433  43 47N  087 51W  232   X           A    7 US
 WI SIREN            KRZN  RZN          45 49N  092 22W  301   X                7 US
+WI SOLON SPRINGS    KOLG  OLG          46 19N  091 49W  336   X                8 US
 WI SPARTA/MCCOY AAF KCMY  CMY          43 58N  090 44W  256   X                7 US
 WI STEVENS POINT    KSTE  STE          44 33N  089 32W  338   X                7 US
 WI STURGEON BAY     KSUE  SUE          44 51N  087 25W  221   X                7 US
@@ -3719,6 +3895,7 @@ WI SUPERIOR         KSUW  SUW          46 41N  092 06W  206   X                7
 WI TOMAHAWK REGNL   KTKV  TKV          45 28N  089 49W  453   X                7 US
 WI VIROQUA MUNI     KY51  Y51          43 35N  090 54W  394   X                8 US
 WI VOLK/CAMP DOUGLA KVOK  VOK          43 55N  090 16W  277   X     T          7 US
+WI WASHINGTON ISL   K2P2  2P2          45 23N  086 55W  200   X                8 US
 WI WATERTOWN        KRYV  RYV          43 10N  088 43W  254   X                7 US
 WI WAUKESHA CNTY    KUES  UES          43 03N  088 15W  278   X     T          7 US
 WI WAUPACA          KPCZ  PCZ          44 20N  089 01W  252   X           W    8 US
@@ -3736,7 +3913,7 @@ WI RICE LAKE        KRIE  RIE          45 29N  091 43W  360   Z                8
 WI SHAWANO MUNI     K3WO  3WO          44 47N  088 34W  248   Z                8 US
 WI TOMAHAWK REGNL   KT08  T08          45 28N  089 48W  453   Z                8 US
 
-WEST VIRGINIA      26-APR-06
+WEST VIRGINIA      24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 WV BECKLEY          KBKW  BKW   72412  37 48N  081 07W  764   X     U     A    6 US
 WV BLUEFIELD        KBLF  BLF          37 18N  081 12W  873   X     T     A    6 US
@@ -3747,6 +3924,7 @@ WV ELKINS           KEKN  EKN   72417  38 53N  079 51W  603   X     U     A    4
 WV HENDERSON        KHNN  HNN          38 45N  082 01W  262         V          8 US
 WV HUNTINGTON       KHTS  HTS   72425  38 22N  082 33W  254   X     T  Z  A    3 US
 WV LEWISBURG/GREENB KLWB  LWB          37 52N  080 24W  702   X     T          6 US
+WV LOGAN            K6L4  6L4          37 51N  081 55W  508   X                7 US
 WV MARTINSBURG      KMRB  MRB          39 24N  077 59W  164   X     T     A    4 US
 WV MORGANTOWN       KMGW  MGW          39 39N  079 55W  378   X     T     A    3 US
 WV PARKERSBURG      KPKB  PKB   72427  39 21N  081 25W  262   X     T     A    6 US
@@ -3758,9 +3936,10 @@ WV SUTTON/BRAXTON   K48I  48I          38 41N  080 39W  397   X           W    8
 WV WHEELING         KHLG  HLG          40 10N  080 39W  372   X     T     A    6 US
 WV WHITE SULPHUR SP KSSU  SSU          37 46N  080 19W  549   X                7 US
 
-WYOMING            03-DEC-13
+WYOMING            24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  C
 WY AFTON            KAFO  AFO          42 43N  110 57W 1897   X           W    8 US
+WY ALPINE           K46U  46U          43 11N  111 02W 1721   X                8 US
 WY BIG PINEY        KBPI  BPI   72671  42 35N  110 06W 2117   X     U     A    6 US
 WY BOYSEN (VOR)     KBOY  BOY          43 28N  108 18W 2517         V          8 US
 WY BOYSEN/THERMOPOL KTBX  TBX          43 28N  108 14W 2225   X           W    8 US
@@ -3768,6 +3947,7 @@ WY BUFFALO          KBYG  BYG          44 23N  106 43W 1497   X           A    7
 WY CASPER           KCPR  CPR   72569  42 54N  106 28W 1621   X     T     A    6 US
 WY CASPER(VOR)      KDDY  DDY          43 05N  106 17W 1621         V          8 US
 WY CHEYENNE         KCYS  CYS   72564  41 09N  104 48W 1868   X  X  U     A  F 3 US
+WY COWLEY/LOVELL    KU68  U68          44 55N  108 27W 1248   X                8 US
 WY WARREN AIR BASE  KFEW  FEW          41 08N  104 52W 1878   X           W    8 US
 WY CODY             KCOD  COD   72670  44 31N  109 01W 1553   X     T          3 US
 WY CRAZY WOMAN/VOR  KCZI  CZI          44 00N  106 26W 1550         V          8 US
@@ -3787,8 +3967,9 @@ WY LARAMIE          KLAR  LAR          41 19N  105 40W 2216   X     U     A    6
 WY LAVA MOUNTAIN    KAJL               43 40N  110 02W 3161   X                9 US
 WY MEDICINE BOW PRO       MBW   74431  41 53N  106 10W 2300            W       8 US
 WY NEWCASTLE MONDEL KECS  ECS          43 53N  104 19W 1273   X                8 US
-WY PINEDALE R WENZ  KPNA  PNA          42 48N  109 48W 2160   X     T     W    8 US
+WY PINEDALE R WENZ  KPNA  PNA          42 48N  109 48W 2160   X     T     W    5 US
 WY PINE BLUFFS MUNI K82V  82V          41 09N  104 08W 1570   X                8 US
+WY POWELL           KPOY  POY          44 52N  108 48W 1554   X                8 US
 WY RAWLINS MUNICIPA KRWL  RWL          41 47N  107 12W 2077   X     T          6 US
 WY RIVERTON         KRIW  RIW   72672  43 04N  108 28W 1697   X  X  T  X  A  F 2 US
 WY ROCK SPRINGS     KRKS  RKS   72574  41 36N  109 04W 2060   X     T          6 US
@@ -3797,6 +3978,7 @@ WY SARATOGA         KSAA  SAA          41 27N  106 50W 2138   X                9
 WY SHERIDAN         KSHR  SHR   72666  44 46N  106 58W 1202   X     U     A    1 US
 WY SOUTH PASS       KFWZ  FWZ          42 31N  108 47W 2588   X                8 US
 WY TEN SLEEP        KJPD  JPD          44 09N  107 10W 2741   X           W    8 US
+WY THERMOPOLIS      KHSG  HSG          43 43N  108 24W 1492   X                8 US
 WY TORRINGTON       KTOR  TOR          42 04N  104 09W 1277   X           A    7 US
 WY WORLAND          KWRL  WRL          43 58N  107 57W 1271   X     T     A    6 US
 WY YELLOWSTONE LAKE KP60  P60          44 33N  110 25W 2388   X           A    7 US
@@ -4079,7 +4261,7 @@ BC VERNON BRIDGE    CWVK  WVK          50 13N  119 16W  555            Z       8
 BC VIC. HARTLAND AU CWVV  WVV          48 31N  123 28W   49   X                7 CA
 BC VICTORIA (AUTOB) CWLM  WLM   71200  48 25N  123 19W   70   X                7 CA
 BC VICTORIA HARBOUR CYWH  YWH          48 25N  123 23W   10   X     T          7 CA
-BC VICTORIA INTL AR CYYJ  YYJ   71799  48 38N  123 25W   19   X     T          6 CA
+BC VICTORIA INTL AR CYYJ  YYJ   71799  48 39N  123 26W   19   X     T          6 CA
 BC VICTORIA UNIV    CWYJ  WYJ   71783  48 27N  123 18W   39   X                7 CA
 BC W VANCOUVER AUTO CWWA  WWA   71784  49 21N  123 10W  178   X                7 CA
 BC WHISTLER         CWAE  WAE          50 08N  122 57W  658   X                7 CA
@@ -4243,6 +4425,7 @@ N.W. TERRITORIES   03-DEC-13
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  X
 NT AKLAVIK AIRPORT  CYKD  YKD          68 13N  135 00W    7   X                7 CA
 NT CAPE PARRY AUTO4 CZCP               70 10N  124 43W   93   X                7 CA
+NT COLVILLE LAKE    CYVL               67 01N  126 08W  259   X                7 CA
 NT DEADMAN VALLEY   CXDK        71021  61 16N  124 28W  283   X                8 CA
 NT DELINE           CXDE  XDE   71503  65 13N  123 26W  213   X                7 CA
 NT EKATI (PWS)      CYOA  YOA          64 42N  110 37W  469   X     T          6 CA
@@ -4360,10 +4543,12 @@ NU WAGER BAY        CXWB               65 53N  089 27W   18   X                8
 NU WHALE COVE AIRPO CYXN  YXN          62 13N  092 35W   20   X                7 CA
 NU IQALUIT CLIMATE  CXFB               63 45N  068 33W   34   Z                8 CA
 
-ONTARIO            30-APR-13
+ONTARIO            24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  X
+ON ARMSTRONG (MARS) CYYW        71841  50 18N   88 54W  351   X                7 CN
 ON ATIKOKAN (AUT)   CWCH  WCH   71747  48 45N  091 37W  424   X                7 CA
 ON ATIKOKAN               WIB   71748  48 45N  091 36W  393                    7 CA
+ON ATTAWAPISKAT     CYAT               52 56N  082 26W    9   X                7 CA
 ON BANCROFT AUTOB   CWRK  WRK          45 04N  077 52W  331   X                7 CA
 ON BARRIE (MARS)    CWCU  WCU   71436  44 22N  079 46W  295   X                7 CA
 ON BARRIE-ORO       CXBI        71314  44 29N  079 33W  289   X                8 CA
@@ -4377,6 +4562,7 @@ ON BURLINGTON PIERS CWWB  WWB   71437  43 18N  079 47W   76   X                7
 ON CAMERON FALLS    CXCA  XCA   71291  49 09N  088 21W  228   X                7 CA
 ON CARIBOU ISL (MAP CWCI  WCI   71433  47 19N  085 49W  187   X                7 CA
 ON CHAPLEAU ARPT(SA CYLD  YLD          47 49N  083 20W  447   X     T          6 CA
+ON CHATHAM          CYCK               42 18N  082 05W  198   X                7 CA
 ON COBOURG (MARS)   CWNC        71431  43 57N  078 10W   78   X                7 CA
 ON COLLINGWOOD (AUT CWCO  WCO   71270  44 27N  080 10W  221   X                7 CA
 ON COVE ISLAND (MAP CWWX  WWX   71439  45 19N  081 44W  181   X                7 CA
@@ -4432,12 +4618,14 @@ ON MUSKRAT DAM      CZMD               53 26N  091 46W  278   X                8
 ON NAGAGAMI (MARS)  CWNZ  WNZ   71832  49 45N  084 10W  256   X                7 CA
 ON NORTH BAY AIRPOR CYYB  YYB   71731  46 21N  079 25W  371   X     T          6 CA
 ON NORTHEAST ONT    CXTI               49 17N  081 47W    1   X                8 CA
+ON OGOKI POST       CYKP  YKP          51 40N  085 54W  179   X                7 CA
 ON OLIPHANT (AUTOB) CWDF  WDF   71283  44 43N  081 16W  182   X                7 CA
 ON OSHAWA           CYOO               43 55N  078 54W  139   X                8 CA
 ON OTTAWA INTL      CYOW  YOW   71628  45 19N  075 40W  114   X     U          2 CA
 ON OTTAWA CDA RCS   CXOA        71063  45 23N  075 43W   79   X                8 CA
 ON N ONTARIO PORTAB CXQT  XQT          48 26N  089 13W  183   X                8 CA
 ON PARRY SOUND      CXPC        71172  45 21N  080 03W  176   X                8 CA
+ON PEAWANUCK        CYPO  YPO          54 59N  085 26W   53   X                8 CA
 ON PETAWAWA         CYWA  YWA   71625  45 57N  077 19W  130   X     T  Z       6 CA
 ON PETERBOROUGH ARP CYPQ  YPQ          44 13N  078 22W  191   X     T          6 CA
 ON PICKLE LAKE      CYPL  YPL   71845  51 28N  090 12W  373   X     T  X       5 CA
@@ -4501,7 +4689,7 @@ PE SUMMERSIDE (AUTO CWSD               46 25N  063 51W   24   X                7
 PE SUMMERSIDE(CAN M CYSU  YSU   71702  46 25N  063 49W   24   Z                8 CA
 PE HARRINGTON CDA   CAHR        71350  46 21N  063 10W   53   X                8 CA
 
-QUEBEC             10-DEC-13
+QUEBEC             24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  X
 QC AMQUI            CWZS  WZS   71386  48 28N  067 26W  166   X                7 CA
 QC AKULIVIK AIRPORT CYKO  YKO          60 49N  078 09W    9   X                7 CA
@@ -4617,6 +4805,7 @@ QC STE ANNE DE BELL CWVQ  WVQ   71377  45 25N  073 55W   39   X                7
 QC TASIUJAQ A       CYTQ  YTQ          58 40N  069 57W   31   X     T          7 CA
 QC TEMISCAMINQUE    CWBA        71732  46 43N  079 06W  181   X                7 CA
 QC TROIS RIVIERES   CWTY  WTY   71724  46 21N  072 31W    6   X                7 CA
+QC TROIS RIVIERES   CYRQ               46 21N  072 41W   61   X     T          7 CA
 QC UMIUJAQ          CYMU  YMU          56 31N  076 31W   71   X                7 CA
 QC VAL D'OR AIRPORT CYVO  YVO   71725  48 04N  077 46W  337   X     T          6 CA
 QC VALCARTIER AIRPO CYOY  YOY   71716  46 53N  071 30W  168   X     T  Z       6 CA
@@ -4718,7 +4907,7 @@ YT WATSON LAKE AIRP CYQH  YQH   71953  60 07N  128 49W  690   X     T          6
 YT WATSON LAKE      CXQH        71199  60 07N  128 49W  690   X                8 CA
 YT WHITEHORSE AIRPO CYXY  YXY   71964  60 43N  135 04W  703   X     T  X       5 CA
 
-MEXICO             04-OCT-13
+MEXICO             24-MAY-17
 CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  X
    ACAPULCO/G. ALVA MMAA  ACA          16 45N  099 45W    5   X     T          3 MX
    ACAPULCO/G. ALVA             76805  16 50N  099 56W    3            X       8 MX
@@ -4773,6 +4962,7 @@ CD  STATION         ICAO  IATA  SYNOP   LAT     LONG   ELEV   M  N  V  U  A  X
    POCA RICA-TAJIN  MMPA  PAZ          20 30N  097 28W  142   X     T          7 MX
    PUEBLA           MMPB  PBC   76685  19 10N  098 22W 2244   X     T          6 MX
    PUERTO PENASCO   MMPE               31 21N  113 31W    9   X                6 MX
+   PALENQUE         MMPQ               17 32N  091 59W   61   X     T          7 MX
    PUERTO ESCONDIDO MMPS  PXM          15 52N  097 04W   88   X     T          6 MX
    PUERTO VALLARTA  MMPR  PVR          20 40N  105 15W    6   X     T          6 MX
    PUNTA PENASCO          PPE   76061  31 11N  113 20W   14                    8 MX
@@ -5047,7 +5237,7 @@ COSTA RICA         23-DEC-01
    PUNTARENAS       MRPT        78760  09 58N  084 49W    3   X                7 CR
    TOBIAS BOLANO    MRPV               09 57N  084 09W  994   X     T          6 CR
 
-PANAMA             30-APR-13
+PANAMA             24-MAY-17
    BOCAS DEL TORO   MPBO               09 21N  082 15W    3   X                7 PA
    DAVID/ENRIQUE M  MPDA        78793  08 24N  082 26W   27   X     T          7 PA
    COLON            MPEJ        78794  09 21N  079 52W    8                    9 PA
@@ -5065,6 +5255,7 @@ PANAMA             30-APR-13
    AUGUSTO VERGARA  MPNU               07 49N  080 16W   21   X                7 PA
    PUERTO OBALDIA   MPOA               08 40N  077 25W    1   X                7 PA
    RIO HATO         MPRH               08 22N  080 07W   31   X                7 PA
+   SCARLETT MARTINE MPSM               08 21N  080 08W    0   X                7 PA
    EL PORVENIR      MPVR        78788  09 34N  078 58W    2   X                7 PA
 
 COLOMBIA           30-APR-13
@@ -5150,7 +5341,7 @@ VENEZUELA          30-APR-13
    PUERTO AYACUCHO  SVPA        80457  05 37N  067 36W   74   X                7 VE
    PUERTO CABELLO(M SVPC        80412  10 29N  068 04W    2   X                7 VE
    PARAMILLO (PRIVA SVPM               07 47N  072 12W 1000   X                7 VE
-   GUAYANA/MANUEL C SVPR               08 18N  062 46W  144   X                7 VE
+   GUAYANA/MANUEL C SVPR               08 17N  062 46W  144   X                7 VE
    SAN ANTONIO TACH SVSA        80447  07 50N  072 27W  378   X     T          7 VE
    SANTA ELENA UAIR SVSE        80462  04 35N  061 07W  907   X                7 VE
    SANTO DOMINGO/MA SVSO        80475  07 34N  072 02W  327   X                7 VE
@@ -5290,7 +5481,7 @@ BOLIVIA            30-APR-13
    VIRU VIRU INTL A SLVR        85244  17 38S  063 07W  373   X     T          6 BO
    YACUIBA          SLYA        85365  21 58S  063 39W  645   X     T          7 BO
 
-BRAZIL             30-APR-13
+BRAZIL             24-MAY-17
    CONCEICAO ARAGUA SBAA        82861  08 21S  049 18W  199   X                7 BR
    AFONSOS ARPT (MI SBAF        83748  22 52S  043 22W   34   X     T          6 BR
    AMAPA AIRPORT    SBAM        82030  02 04N  050 51W   10   X                7 BR
@@ -5417,6 +5608,7 @@ BRAZIL             30-APR-13
    RESENDE          SBRS        83738  22 28S  044 28W  439   X                7 BR
    SAO CARLOS(PRIVA SBSA        83726  22 01S  047 52W  856   X                7 BR
    SANTA CRUZ (MIL) SBSC        83741  22 55S  043 43W    3   X                7 BR
+   NATAL            SBSG               05 46S  035 22W   83   X     T          7 BR
    SAO JOSE DOS CAM SBSJ               23 13S  045 52W  646   X     T          6 BR
    SAO LUIS/MARECHA SBSL        82280  02 36S  044 13W   53   X     T  X       5 BR
    SANTA MARIA(CV/M SBSM        83937  29 43S  053 42W   85   X                7 BR
@@ -5485,7 +5677,7 @@ URUGUAY            30-APR-13
    TACUAREMBO       SUTB        86370  31 41S  055 58W  134   X                7 UY
    TREINTA Y TRES   SUTR        86500  33 13S  054 22W   46   X                7 UY
 
-CHILE              30-APR-13
+CHILE              24-MAY-17
    ANCUD/PUPELDE    SCAC        85818  41 53S  073 47W  114   X                7 CL
    ALTO PALENA      SCAP        85836  43 37S  071 47W  277   X                7 CL
    ARICA/CHACALLUTA SCAR        85406  18 21S  070 19W   59   X     T          6 CL
@@ -5519,7 +5711,8 @@ CHILE              30-APR-13
    MELINKA ARPT     SCMK               43 54S  073 44W   11   X                8 CL
    TENIENTE GALLARD SCNT               51 40S  072 32W   67   X     T          8 CL
    QUELLON          SCON        85831  43 07S  073 37W    3   X                7 CL
-   MONOPULLI        SCPQ               42 20S  073 43W    5   X     T          7 CH
+   MONOPULLI        SCPQ               42 20S  073 43W    5   X     T          7 CL
+   TEMUCO           SCQP               38 55S  072 39W   97   X     T          8 CL
    CHANARAL         SCRA        85460  26 19S  070 37W   30   X                7 CL
    RODELILLO        SCRD               33 04S  071 33W  336   X                8 CL
    DE LA INDEPENDEN SCRG        85608  34 10S  070 46W  441   X                7 CL
@@ -5950,7 +6143,7 @@ FINLAND            30-APR-13
    YLIVIESKA        EFYL               64 02N  024 43E   77   X                7 FI
    JOKIOINEN                    02963  60 49N  023 30E  103            X       7 FI
 
-UNITED KINGDOM     30-APR-13
+UNITED KINGDOM     24-MAY-17
    BELFAST/ALDERGRO EGAA        03917  54 38N  006 13W   81   X     T          6 GB
    BELFAST HARBOUR  EGAC        03924  54 37N  005 52W    5   X     T          6 GB
    EGLINTON/LONDOND EGAE               55 02N  007 09W    9   X     T          6 GB
@@ -6048,6 +6241,7 @@ UNITED KINGDOM     30-APR-13
    EXETER AIRPORT   EGTE        03839  50 43N  003 25W   30   X     T          6 GB
    FILTON (PRIVATE) EGTG               51 31N  002 34W   69   X     T          6 GB
    HATFIELD         EGTH               51 46N  000 15W   77   Z                7 GB
+   OXFORD           EGTK               51 50N  001 19W   82   X     T          7 GB
    BENSON RAF       EGUB        03658  51 37N  001 04W   63   X     T          7 GB
    ABERPORTH        EGUC        03502  52 07N  004 34W  134   X                7 GB
    FARNBOROUGH (MIL EGUF        03766  51 16N  000 46W   72   X                7 GB
@@ -6321,7 +6515,7 @@ POLAND             30-APR-13
    LEGIONOWO                    12374  52 24N  020 58E   94            X       8 PL
    WROCLAW/MALY GAD             12425  51 08N  016 59E  116            X       8 PL
 
-SWEDEN             30-APR-13
+SWEDEN             24-MAY-17
    LINKOPING/MALMEN ESCF        02562  58 23N  015 31E  117   X     T          7 SE
    SODERHAMN (SWE-A ESNY        02376  61 16N  017 06E   36   X                7 SE
    UPPSALA (SWE-AFB ESCM        02458  59 52N  017 36E   41   X     T          7 SE
@@ -6344,6 +6538,7 @@ SWEDEN             30-APR-13
    HALMSTAD (SWE-AF ESMT        02604  56 40N  012 49E   30   X     T          7 SE
    HAGSHULT (SWE-AF ESMV        02556  57 17N  014 07E  172   X     T          7 SE
    VAXJO/KRONOBERG  ESMX        02641  56 55N  014 43E  186   X     T          6 SE
+   SVEG             ESND               62 03N  014 25E  359   X                8 SE
    GALLIVARE (PRIVA ESNG        02049  67 08N  020 49E  310   X     T          7 SE
    JOKKMOKK (SWE-AF ESNJ        02142  66 37N  019 38E  264   X                7 SE
    KRAMFORS (SWE-AF ESNK        02259  63 02N  017 46E   19   X     T          7 SE
@@ -6354,6 +6549,7 @@ SWEDEN             30-APR-13
    KIRUNA AIRPORT   ESNQ        02044  67 49N  020 19E  452   X     T          6 SE
    SKELLEFTEA AIRPO ESNS        02293  64 37N  021 04E   49   X     T          6 SE
    UMEA AIRPORT     ESNU        02286  63 47N  020 16E   14   X     T          6 SE
+   VILHELMINA       ESNV               64 35N  016 50E  348   X                8 SE
    ARVIDSJAUR       ESNX               65 35N  019 17E  379   X                8 SE
    OREBRO (PRIVATE) ESOE               59 13N  015 03E   57   X     T          7 SE
    KARLSTAD NORTH   ESOK               59 27N  013 20E  107   X     T          6 SE
@@ -6372,9 +6568,11 @@ SWEDEN             30-APR-13
    LINKOPING/SAAB   ESSL               58 23N  015 40E   52   X     T          7 SE
    NORRKOPING/KUNGS ESSP        02571  58 34N  016 15E    8   X     T          6 SE
    KARLSTADT AIRPOR ESSQ        02418  59 22N  013 28E   55   X                7 SE
+   TORSBY           ESST               60 09N  012 59E  120   X                8 SE
    VISBY AIRPORT    ESSV        02590  57 40N  018 21E   47   X     T          6 SE
    LJUNGBYHED       ESTL               56 04N  013 12E   43   X     T          6 SE
    STORUMAN         ESUD               64 58N  017 42E  279   X                8 SE
+   PAJALA           ESUP               67 15N  023 04E  165   X                8 SE
    HEMAVAN          ESUT               65 48N  015 05E  463   X     T          8 SE
    ANGELHOLM (SWE-A ESDB               56 17N  012 50E   47   Z                8 SE
    BARKARBY (SWE-AF ESKB               59 25N  017 52E   17   Z                7 SE
@@ -6489,7 +6687,7 @@ SPAIN              09-DEC-13
    TENERIFE/LOS ROD GCXO        60015  28 29N  016 21W  632   X     T          6 ES
    MELILLA          GEML        60338  35 16N  002 57W   55   X     T          6 ES
 
-FRANCE             22-OCT-13
+FRANCE             24-MAY-17
    CALAIS/DUNKERQUE LFAC               50 58N  001 57E    3   X                7 FR
    BRAY             LFAQ               49 58N  002 42E  111   X     T          7 FR
    LE TOUQUET/P. PL LFAT        07003  50 31N  001 37E   14   X     T          8 FR
@@ -6523,6 +6721,7 @@ FRANCE             22-OCT-13
    MONTAUBAN        LFDB               44 08N  001 29E  160   X                8 FR
    AUCH/LAMOTHE (AU LFDH        07622  43 40N  000 36E  128   X                7 FR
    SUIPPES RANGE (M LFFS               49 08N  004 31E  199   X                7 FR
+   COLMAR HOUSSEN   LFGA               48 06N  007 21E  191   X                6 FR
    DOLE TAVAUX      LFGJ               47 03N  005 26E  196   X     T          6 FR
    MEGEVE           LFHM               45 52N  006 37E  950   X                7 FR
    LE PUY/LOUDES (A LFHP        07471  45 04N  003 46E  833   X     T          7 FR
@@ -6544,6 +6743,7 @@ FRANCE             22-OCT-13
    ANNECY/MEYTHET   LFLP               45 55N  006 05E  463   X     T          7 FR
    MONTELIMAR/ANCON LFLQ        07577  44 34N  004 43E   74   X                7 FR
    GRENOBLE/ST. GEO LFLS        07486  45 22N  005 19E  386   X     T          6 FR
+   VALENCE-CHABEUIL LFLU               44 55N  004 59E  160   X                7 FR
    VICHY/CHARMEIL   LFLV        07374  46 10N  003 23E  251   X     T          6 FR
    AURILLAC (AUT)   LFLW        07549  44 53N  002 25E  639   X     T          7 FR
    CHATEAUROUX/DEOL LFLX        07354  46 51N  001 43E  157   X     T          6 FR
@@ -6624,6 +6824,7 @@ FRANCE             22-OCT-13
    COLMAR/MEYENHEIM LFSC        07197  47 55N  007 24E  217   X     T          7 FR
    DIJON/LONGVIC(FA LFSD        07280  47 16N  005 04E  227   X     T          6 FR
    METZ/FRESCATY(FA LFSF        07090  49 04N  006 07E  191   X     T          7 FR
+   EPINAL/MIRECOURT LFSG               48 20N  006 04E  330   X                7 FR
    ST. DIZIER/ROBIN LFSI        07169  48 37N  004 54E  140   X     T          6 FR
    BRIVE/SOUILLAC   LFSL               45 02N  001 29E  310   X     T          7 FR
    NANCY/ESSEY      LFSN        07180  48 40N  006 13E  217   X     T  X       7 FR
@@ -6945,12 +7146,13 @@ AUSTRIA            08-MAY-06
    ZELTWEG (MIL)    LOXZ        11165  47 12N  014 45E  682   X     T          7 AT
    WIEN/HOHE WARTE              11035  48 15N  016 22E  200            X       7 AT
 
-PORTUGAL           30-APR-13
+PORTUGAL           24-MAY-17
    ALVERCA          LPAR        08537  38 53N  009 02W    3   X     T          6 PT
    SANTA MARIA ISLA LPAZ        08515  36 58N  025 10W  100   X     T          6 PT
    BRAGANCA         LPBG        08575  41 51N  006 42W  692   X                7 PT
    BEJA (POR/GER-AF LPBJ        08562  38 05N  007 56W  247   X     T          7 PT
    CORVO IS AZORES  LPCR               39 40N  031 07W   26   X                8 PT
+   CASCAIS          LPCS               38 44N  009 21W   99   X                7 PT
    FLORES ISLAND    LPFL        08501  39 27N  031 07W   29   X                7 PT
    FARO             LPFR        08554  37 01N  007 58W    4   X     T          6 PT
    GRACIOSA IS AZOR LPGR               39 06N  028 02W   26   X                8 PT
@@ -7005,8 +7207,8 @@ ROMANIA            30-APR-13
    KOGALNICEANU     LRCK        15481  44 22N  028 29E  108   X     T          6 RO
    CLUJ-NAPOCA/SOME LRCL        15120  46 47N  023 41E  413   X     T  X       7 RO
    CARANSEBES       LRCS        15292  45 25N  022 15E  242   X                7 RO
-   CAMPIA TURZII    LRCT               46 30N  023 53E  331         T          8 RO
-   CRAIOVA          LRCV        15450  44 19N  023 53E  191   X     T          6 RO
+   CAMPIA TURZII    LRCT               46 30N  023 53E  331   X     T          8 RO
+   CRAIOVA          LRCV        15450  44 19N  023 52E  191   X     T          6 RO
    IASI             LRIA        15090  47 10N  027 37E  104   X     T          7 RO
    ORADEA           LROD        15080  47 02N  021 55E  140   X     T          7 RO
    BUCHAREST/OTOPEN LROP        15421  44 34N  026 06E   95   X     T          6 RO
@@ -7041,7 +7243,7 @@ SWITZERLAND        30-APR-13
    RHEINECK/ALTENRH LSZR        06690  47 29N  009 34E  398   X     T          6 CH
    SAMEDAN          LSZS        06792  46 32N  009 53E 1706   X     T          8 CH
 
-TURKEY             19-AUG-13
+TURKEY             24-MAY-17
    ANKARA/GUVERCIN  LTAB               39 55N  032 45E  819   X     T          7 TR
    ANKARA/ESENBOGA  LTAC        17128  40 07N  032 58E  949   X     T          6 TR
    ANKARA/ETIMESGUT LTAD        17129  39 57N  032 40E  806   X     T          6 TR
@@ -7083,6 +7285,7 @@ TURKEY             19-AUG-13
    AKHISAR (TUR-AFB LTBT        17184  38 55N  027 51E   93   X     T          7 TR
    CORLU            LTBU               41 07N  027 55E  173   X     T          6 TR
    ANADOLU          LTBY               39 49N  030 31E  789   X     T          7 TR
+   MARISA           LTBZ               38 38N  027 21E   73   X     T          7 TR
    ELAZIG (CIV/MIL) LTCA        17202  38 36N  039 16E  882   X     T          6 TR
    AGRI             LTCB        17099  39 43N  043 02E 1632   X                7 TR
    DIYARBAKIR(CIV/A LTCC        17280  37 52N  040 12E  677   X     T  X       6 TR
@@ -7104,6 +7307,7 @@ TURKEY             19-AUG-13
    IGDIR            LTCT               39 59N  043 52E  946   X     T          8 TR
    BINGOL           LTCU               38 52N  040 35E 1061   X     T          8 TR
    SIRNAK           LTCV               37 22N  042 04E  621   X     T          8 TR
+   YUKSEKOVA        LTCW               37 33N  044 14E 1856   X                7 TR
    HATAY AIRPORT    LTDA               36 22N  036 17E   82   X     T          8 TR
    SULEYMAN DEMIREL LTFC  ISE          37 52N  030 23E  864   X     T          8 TR
    BALIKESIR KORFEZ LTFD               39 33N  027 01E   16   X     T          8 TR
@@ -7111,6 +7315,7 @@ TURKEY             19-AUG-13
    GAZIPASA         LTFG               36 18N  032 18E   95   X     T          6 TR
    CARSAMBA         LTFH               41 16N  036 33E    5   X     T          8 TR
    SABIHA GOKCEN    LTFJ               40 54N  029 18E   98   X     T          8 TR
+   GOKCEADA         LTFK               40 12N  025 53E   21   X     T          8 TR
    SAMSUN CITY                  17030  41 17N  036 20E    4            X       8 TR
    ISTANBUL/GOZTEPE             17062  40 58N  029 05E   33            X       8 TR
    GOLCUK/DUMLUPINA             17067  40 43N  029 49E   18            X       8 TR
@@ -7229,7 +7434,7 @@ SENEGAL            30-APR-13
    SIMENTI          GOTS               13 03N  013 18W   52   X                7 SN
    TAMBACOUNDA      GOTT        61687  13 44N  013 39W   50   X                7 SN
 
-MAURITANIA         27-DEC-01
+MAURITANIA         24-MAY-17
    AIOUN EL ATROUSS GQNA        61499  16 41N  009 35W  223   X                7 MR
    BOUTILIMIT       GQNB        61461  17 31N  014 40W   75   X                7 MR
    TIDJIKJA         GQND        61450  18 34N  011 25W  402   X                7 MR
@@ -7238,6 +7443,7 @@ MAURITANIA         27-DEC-01
    AKJOUJT          GQNJ        61437  19 45N  014 22W  120   X                7 MR
    KAEDI            GQNK        61492  16 08N  013 31W   18   X                7 MR
    NOUAKCHOTT       GQNN        61442  18 06N  015 56W    3   X     T          6 MR
+   NOUAKCHOTT/OUMTO GQNO               18 18N  015 58W    4   X                7 MR
    ROSSO            GQNR        61489  16 30N  015 49W    6   X                7 MR
    ATAR             GQPA        61421  20 31N  013 04W  224   X                7 MR
    NOUADHIBOU       GQPP        61415  20 55N  017 01W    3   X     T          6 MR
@@ -7519,7 +7725,7 @@ KENYA              30-APR-13
    MALINDI          HKML        63799  03 13S  040 06E   23   X     T          7 KE
    MOMBASA/MOI INTL HKMO        63820  04 01S  039 37E   55   X     T          6 KE
    MAKINDU          HKMU        63766  02 16S  037 49E 1000   X                7 KE
-   MARA SERENA      HKMS               01 24S  035 00E 1612   X                7 KN
+   MARA SERENA      HKMS               01 24S  035 00E 1612   X                7 KE
    MOYALE LOWER (OD HKMY        63619  03 28N  039 06E 1097   X                7 KE
    NAIROBI/JOMO KEN HKNA        63740  01 19S  036 55E 1624   X     T          6 KE
    NAIROBI/DAGORETT HKNC        63741  01 18S  036 45E 1798   X                7 KE
@@ -8213,7 +8419,7 @@ SAUDI ARABIA       30-APR-13
    WEJH             OEWJ        40400  26 11N  036 28E   16   X     T          6 SA
    YENBO            OEYN        40439  24 08N  038 04E    8   X     T          6 SA
 
-IRAN, ISLAMIC REP  30-APR-13
+IRAN, ISLAMIC REP  24-MAY-17
    ABADAN INTL AIRP OIAA        40831  30 22N  048 15E   11   X     T          7 IR
    DEZFUL (IRAN-AFB OIAD        40795  32 26N  048 24E  143   X                7 IR
    AGHA JARI        OIAG        40833  30 46N  049 40E   29   X                7 IR
@@ -8263,6 +8469,7 @@ IRAN, ISLAMIC REP  30-APR-13
    FASA             OISF        40859  28 54N  053 43E 1383   X                7 IR
    SHIRAZ (CIV/AFB) OISS        40848  29 31N  052 34E 1491   X     T          6 IR
    KHOY             OITK        40703  38 25N  044 59E 1107   X                7 IR
+   PARSABAD         OITP               39 36N  047 53E   77   X                7 IR
    ARDABIL          OITL               38 20N  048 25E 1316   X     T          7 IR
    ORUMIEH          OITR        40712  37 40N  045 04E 1312   X     T          6 IR
    SAGHEZ           OITS        40727  36 15N  046 16E 1493   X                7 IR
@@ -8378,9 +8585,10 @@ PAKISTAN           30-APR-13
    TARBELA DAM      OPTA               33 59N  072 36E  340   X                8 PK
    TURBAT NEW       OPTU               25 58N  063 01E  122   X                7 PK
 
-IRAQ               30-APR-13
+IRAQ               24-MAY-17
    AL KUT           EQBC        99878  32 28N  045 45E   20   X                6 IQ
    BAGHDAD-SIRSENK  ORBB        40650  33 13N  044 13E   34   X                7 IQ
+   BALAD            ORBD               33 56N  044 22E   49   X                7 IQ
    BAGHDAD INTL     ORBI               33 16N  044 14E   35   X     T          3 IQ
    MOSUL (IRQ-AFB)  ORBM        40608  36 19N  043 08E  223   X     T          7 IQ
    SADDAM(IRQ-AFB/C ORBS               33 16N  044 13E   34   X     T          7 IQ
@@ -8400,6 +8608,8 @@ SYRIA              30-APR-13
 
 QATAR              27-DEC-01
    DOHA INTL AIRPOR OTBD        41170  25 15N  051 34E   10   X     T          6 QA
+   DOHA/AL UDEID AB OTBH               25 07N  051 19E   40   X                7 QA
+   DOHA HAMAD INTL  OTHH               25 15N  051 36E    0   X                6 QA
 
 YEMEN              22-OCT-13
    ADEN INTL        OYAA        41480  12 50N  045 01E    3   X     T          6 YE
@@ -8435,8 +8645,6 @@ KAZAKHSTAN         30-APR-13
    KOKSHETAU        UACK               53 19N  069 35E 2547   X     T          8 KZ
    TARAZ            UADD               42 51N  071 18E  665   X     T          8 KZ
    FRUNZE           UAFF        38353  42 51N  074 31E  760   X                7 KZ
-   BISHKEK/MANAS    UAFM               43 04N  074 29E  760   X     T          6 KZ
-   OSH              UAFO  OSS          40 36N  072 48E  892   X     T          8 KZ
    CIMKENT          UAII        38328  42 22N  069 29E  422   X     T          7 KZ
    ZHEZKAZGAN       UAKD               47 42N  067 44E  381   X     T          8 KZ
    KARAGANDA        UAKK               49 40N  073 20E  538   X     T          8 KZ
@@ -8449,6 +8657,8 @@ KAZAKHSTAN         30-APR-13
    CELKAR           UATR        35633  47 51N  059 37E  176   X                7 KZ
    AKTJUBINSK       UATT        35229  50 15N  057 12E  227   X     T          6 KZ
    KOSTANAY         UAUU               53 12N  063 33E  182   X     T          8 KZ
+   BISHKEK/MANAS    UAFM               43 04N  074 29E  760   Z                9 KZ
+   OSH              UAFO  OSS          40 36N  072 48E  892   Z                9 KZ
 
 AZERBAIJAN         30-APR-13
    BAKU/BINE ARPT   UBBB        37864  40 27N  050 04E   -6   X     T          6 AZ
@@ -8476,7 +8686,7 @@ ARMENIA            24-JUN-05
    SHIRAK           UDSG               40 45N  043 52E 1524   X     T          9 AM
    ZVARTNOTS        UDYZ               40 09N  044 24E  865   X     T          7 AM
 
-RUSSIAN FEDERATION 03-DEC-13
+RUSSIAN FEDERATION 24-MAY-17
    UST KAMENOGORSK  UASK               50 02N  082 30E  286   X     T          8 RU
    YAKUTSK          UEEE        24959  62 05N  129 46E  103   X     T          6 RU
    CULMAN/NERIUGRI  UELL        30393  56 55N  124 55E  859   X     T          6 RU
@@ -8550,6 +8760,7 @@ RUSSIAN FEDERATION 03-DEC-13
    ANAPA/VITIAZEVO  URKA               45 00N  037 21E   53   X     T          8 RU
    KRASNODAR        URKK        34929  45 02N  039 09E   34   X     T          6 RU
    MAYKOP           URKM               44 41N  040 02E  558   X     T          6 RU
+   GROZNY           URMG               43 22N  045 42E  263   X     T          6 RU
    UYTASH           URML  MCX          42 49N  047 39E    4   X     T          6 RU
    MINERALYNE VODY  URMM        37054  44 13N  043 06E  314   X     T          6 RU
    NALCHIK          URMN  NAL          43 31N  043 38E  445   X     T          6 RU
@@ -8575,6 +8786,7 @@ RUSSIAN FEDERATION 03-DEC-13
    EKATERINBURG     USSS               56 45N  060 49E  233   X     T          6 RU
    EKATERINBURG                 28440  56 50N  060 38E  280   X                6 RU
    ROSCHINO         USTR  TJM          57 10N  065 19E  115   X     T          6 RU
+   UGRYUMOVO        UUBC               54 33N  036 22E  199   X     T          8 RU
    IVANOVO SOUTH    UUBI               56 56N  040 57E  125   X     T          8 RU
    BRJANSK          UUBP        26898  53 13N  034 11E  202   X     T          6 RU
    MOSCOW/NOVOYE SR UUBW               55 33N  038 09E  115   X                8 RU
@@ -8606,7 +8818,7 @@ RUSSIAN FEDERATION 03-DEC-13
    KUJBYSEV/BEZENCU UWWS        28900  53 13N  050 19E   44   X     T          6 RU
    VORKUTA          UUYW               67 29N  064 00E  185   X     T          8 RU
 
-UKRAINE            30-APR-13
+UKRAINE            24-MAY-17
    BORISPOL'/KIEV   UKBB        33347  50 20N  030 54E  119   X     T          6 UA
    DONETSK          UKCC               48 05N  037 45E  241   X     T          8 UA
    LUHANSK          UKCW               48 25N  039 23E  194   X     T          6 UA
@@ -8624,8 +8836,10 @@ UKRAINE            30-APR-13
    CHERNOVTSY       UKLN               48 16N  025 59E  252   X     T          6 UA
    ROVNO            UKLR               50 36N  026 08E  230   X     T          8 UA
    UZHGOROD         UKLU  UDJ          48 38N  022 16E  117   X     T          6 UA
+   KHERSON          UKOH               46 40N  032 30E   45   X     T          6 UA
    MYKOLAIV         UKON  NLV          47 03N  031 55E   56   X     T          6 UA
    ODESSA/TSENTRALN UKOO        33837  46 25N  030 41E   35   X     T          6 UA
+   VINNITSA         UKWW               49 15N  028 36E  293   X     T          6 UA
 
 LATVIA             09-SEP-10
    LIEPAJA INTL     EVLA        26406  56 31N  021 06E    4   X     T          8 LV
@@ -8656,7 +8870,9 @@ TURKMENISTAN       02-DEC-13
 
 TADJIKISTAN        30-APR-13
    DUSHANBE         UTDD        38836  38 32N  068 49E  803   X     T          6 TJ
+   KOLUB            UTDK               37 59N  069 48E  699   X     T          8 TJ
    KHUDZHAND        UTDL               40 13N  069 42E  442   X     T          8 TJ
+   QURGHONTEPPA     UTDT               37 52N  068 52E  449   X     T          8 TJ
 
 UZBEKISTAN         30-APR-13
    ANDIZAN          UTFA  AZN   38475  40 44N  072 18E  477   X     T          8 UZ
@@ -8721,7 +8937,7 @@ CHINA              30-APR-13
    NANJING/NANKING  ZSNJ        58238  31 56N  118 54E   33   X     T          6 CN
    NANTONG          ZSNT               32 01N  120 51E    6   X                9 CN
    HEFEI/LUOGANG    ZSOF        58321  31 47N  117 18E   33   X     T          6 CN
-   SHANGHAI/PUDONG  ZSPD               31 09N  121 48E    4   X     T          6 CN
+   SHANGHAI/PUDONG  ZSPD  PVG          31 09N  121 48E    4   X     T          6 CN
    QINGDAO/TSINGTAO ZSQD        54857  36 16N  120 23E   77   X     T          6 CN
    SHANGHAI/HONGQIA ZSSS        58367  31 12N  121 20E    7   X     T          6 CN
    JINAN/TSINAN     ZSTN        54823  36 40N  116 58E   58   X                7 CN
@@ -9043,7 +9259,7 @@ PHILIPPINES        06-OCT-09
    ALABAT ISLAND    RPXT        98435  14 14N  121 56E    5   X                7 PH
    MACTAN INTL(CIV/ RPMT               10 19N  123 59E   24   Z                7 PH
 
-INDIA              09-DEC-13
+INDIA              24-MAY-17
    AHMADABAD        VAAH        42647  23 04N  072 37E   55   X     T          6 IN
    AKOLA AIRPORT    VAAK        42934  20 41N  077 04E  309   X                7 IN
    AURANGABAD AIRPO VAAU        43014  19 51N  075 24E  579   X     T          7 IN
@@ -9074,6 +9290,7 @@ INDIA              09-DEC-13
    AGARTALA         VEAT        42724  23 52N  091 15E   16   X                7 IN
    BAGHDOGRA (IN-AF VEBD        42398  26 41N  088 20E  126   X                7 IN
    BHUBANESWAR      VEBS        42971  20 15N  085 49E   46   X                7 IN
+   VARANASI         VEBN               25 27N  082 51E   83   X                7 IN
    CALCUTTA/DUM DUM VECC        42809  22 39N  088 26E    6   X     T          6 IN
    CAR NICOBAR(IN-A VECX        43368  09 09N  092 49E   14   X                7 IN
    GORAKHPUR (IN-AF VEGK        42379  26 45N  083 22E   77   X                7 IN
@@ -9151,7 +9368,7 @@ MYANMAR/BURMA      08-JAN-04
    PROME/PYE        VBPR        48077  18 48N  095 13E   60   X                7 MM
    PUTAO            VBPT        48001  27 19N  097 25E  409   X                7 MM
    AKYAB            VBRA               20 07N  092 52E    5   X                7 MM
-   SITTWE/AKYAB     VYSW        48062  20 07N  092 52E    5   X                7 VN
+   SITTWE/AKYAB     VYSW        48062  20 07N  092 52E    5   X                7 MM
    MANDALAY         VBRM        48042  21 58N  096 05E   76   X                7 MM
    MERGUI           VBRN        48110  12 25N  098 35E   37   X                7 MM
    RANGOON/MINGALAD VBRR        48096  16 53N  096 10E   29   X                7 MM
@@ -9314,7 +9531,7 @@ VIET NAM           03-DEC-13
    VUNG TAU         VVVT               10 22N  107 04E    4   X                7 VN
    YANGON INTL MYAN VYYY        48097  16 54N  096 08E   33   X     T          6 VN
 
-INDONESIA          09-DEC-13
+INDONESIA          24-MAY-17
    HASANUDDIN/UJUNG WAAA        97180  05 04S  119 32E   14   X     T          6 ID
    BAU-BAU/BETO AMB WAAB        97192  05 28S  122 37E    2   X                7 ID
    KOLAKA/POMALAA   WAAP        97142  04 11S  121 37E    3   X                7 ID
@@ -9328,6 +9545,7 @@ INDONESIA          09-DEC-13
    SELAPARANG       WADA               08 32S  116 04E    3   X     T          8 ID
    BALI INTL        WADD  DSP   97230  08 44S  115 10E  216   X     T          5 ID
    BANDARA          WADL               08 45S  116 17E   97   X     T          8 ID
+   AHMAD YANI       WAHS               06 59S  110 23E    5   X                8 ID
    SARMI/ORAI       WAJI        97580  01 49S  138 43E    3   X     T          7 ID
    JAYAPURA/SENTANI WAJJ        97690  02 35S  140 31E   88   X     T          6 ID
    WAMENA/IRIAN JAY WAJW        97686  04 04S  138 56E 1660   X     T          7 ID
@@ -9350,6 +9568,7 @@ INDONESIA          09-DEC-13
    SANANA           WAPN        97600  02 06S  125 58E    2   X     T          7 ID
    AMBON/PATTIMURA  WAPP        97724  03 42S  128 04E   12   X     T          7 ID
    NAMLEA/BURU ISLA WAPR        97700  03 15S  127 04E   20   X     T          7 ID
+   JUWATA           WAQQ               03 20N  117 34E    0   X     T          7 ID
    JUANDA           WARR               07 22S  112 47E    2   X     T          6 ID
    ACHMAD YANI      WARS               06 58S  110 23E    3   X     T          7 ID
    ADI SUMARMO WIRY WARQ               07 31S  110 45E  128   X     T          8 ID
@@ -9364,6 +9583,7 @@ INDONESIA          09-DEC-13
    MALANG/ABDUL (AF WIAS        96947  07 58S  112 42E  526   X                7 ID
    PAKANBARU/SIMPAN WIBB        96109  00 28N  101 27E   31   X     T          7 ID
    HANG NADIM       WIDD               01 07N  104 07E   38   X     T          8 ID
+   MINANGKABAU      WIEE               00 47S  100 17E    5   X     T          8 ID
    HALIM PERDANAKUS WIHH               06 15S  106 53E   25   X     T          7 ID
    CURUG/BUDIARTO   WIIA        96739  06 18S  106 34E   46   X                7 ID
    BANDUNG/HUSEIN(A WIIB        96781  06 54S  107 34E  740   X                7 ID
@@ -9499,7 +9719,7 @@ PAPUA NEW GUINEA   14-AUG-12
    NADZAB           AYNZ  LAE          06 34S  146 43E   70   X     T          8 PG
    VANIMO AIRPORT   AYVN               02 42S  141 18E    4   X     T          8 PG
 
-AUSTRALIA          03-DEC-13
+AUSTRALIA          24-MAY-17
    ALBANY AIRPORT   YABA        94802  34 56S  117 48E   69   X                7 AU
    AMBERLEY         YAMB               27 38S  152 43E   28   X     T          8 AU
    ARGYLE AERO      YARG        94217  16 38S  128 27E  165   X                7 AU
@@ -9555,6 +9775,7 @@ AUSTRALIA          03-DEC-13
    HUGHENDEN ARPT   YHUG        94343  20 49S  144 14E  318   X                8 AU
    KINGAROY ARPT    YKRY        94549  26 34S  151 50E  434   X                8 AU
    LEIGH CREEK      YLEC               30 36S  138 26E  262   X                7 AU
+   LORD HOME ISLAND YLHI               31 32S  159 05E   12   X                7 AU
    LISMORE ARPT     YLIS        94572  28 50S  153 16E   11   X                7 AU
    LONGREACH ARPT   YLRE               23 26S  144 17E  193   X                7 AU
    MUDGEE ARPT      YMDG        94727  32 34S  149 37E  471   X                7 AU
@@ -9755,287 +9976,3 @@ SAMOA/POLYNESIA    04-OCT-13
    MAUKE ISLAND     NCMK        91840  20 09S  157 23W    9   X                7 WS
    PENRHYN ISLAND   NCPY        91800  09 01S  158 04W    2   X                7 WS
    RAKAHANGA ATOLL  NCRK        91804  10 03S  161 05W    5   X                7 WS
-
-GERMANY US-MIL     09-NOV-04
-   HILL 494 TAC210  KQAA               49 17N  011 50E  450   X                7 DE
-   UEBUNGSDORF      KQAB               49 14N  011 54E  460   X                7 DE
-   BROMBERG         KQAC               49 19N  011 43E  545   X                7 DE
-   SENNELAGER       KQAK               51 55N  008 45E  181   X                7 DE
-   HANAU AAF        KQAO               50 10N  008 58E  112   X                7 DE
-   GRAFENWOEHR AAF  KQII               49 42N  011 57E  474   X                7 DE
-   SCHWEINFURT 7WS  KQKT               50 03N  010 10E  240   X                7 DE
-   SEIGENBURG RANGE KQKW               48 45N  011 48E  397   X                7 DE
-   WURZBURG LEIGHTN KQLB               49 47N  009 58E  316   X                7 DE
-   GRAFENWOHR       KQQL               49 40N  011 37E  578   X                7 DE
-   GRAFENWOHR       KQUB               49 41N  011 41E  578   X                7 DE
-
-UNITED KINGDOM     08-APR-03
-   RAF BENSON       KQCY               51 37N  001 05W   66   X                7 GB
-   FAIRFORD         KQOF               51 41N  001 47W   87   X                7 GB
-
-CYPRUS US-MIL      08-APR-03
-   AKROTIRI         KQDA               34 35N  032 59E   23   X                7 CY
-
-CROATIA US-MIL     21-JUN-00
-   GE MAINE TEAM ZA KQLA        69174  44 06N  015 21E   76   X                7 HR
-
-TURKEY US-MIL      18-MAY-11
-   ADANA/INCIRLIK   EQYK               37 00N  035 26E   73   X                7 TR
-
-ALBANIA US-MIL     08-APR-03
-   HELIDAT FARKE    KQDO               41 19N  019 53E  232   X                7 AL
-
-BOSNIA US-MIL      08-APR-03
-   CAMP HARMON TUZL KQLH        69181  44 28N  018 46E  225   X                7 BA
-   CAMP HAMPTON     KQLX               44 57N  018 19E  104   X                7 BA
-   SAREJEVO BUTIMIR KQKO               43 52N  018 26E  510   X                7 BA
-   DET 7 GUARD BASE KQKP               44 18N  017 55E   60   X                7 BA
-   CAMP ZENICA      KQKU               44 13N  017 55E  317   X                7 BA
-   RMWS64 MT VIS    KQLU               44 26N  018 51E  462   X                7 BA
-   LAPIINA          KQOP               43 08N  017 43E    5   X                7 BA
-   DOBJ                                44 44N  018 06E  183   X                7 BA
-   CAMP MCGOVERN    KQQM               44 53N  018 41E   91   X                7 BA
-   RAJILOVAK        KQUA               43 52N  018 18E  494   X                7 BA
-
-KOSOVO US-MIL      30-JUN-13
-   CAMP BONDSTEEL   KQUK               42 34N  021 02E  564   X                7 KV
-   KOSOVSKA         KQLC               42 34N  021 34E  597   X                7 KV
-   CAMP MONTEITH    KQOO               42 17N  021 18E  544   X                7 KV
-   CAMP NOTHING HIL KQND               43 05N  043 05E  481   X                6 KV
-
-BULGARIA US-MIL    08-APR-03
-   BURGAS           KQHD               42 34N  027 31E   41   X                7 BG
-
-BELGIUM US-MIL     08-APR-03
-   CHIEVRES         KQIH               50 34N  003 50E   60   X                7 BE
-
-HUNGARY US-MIL     08-APR-03
-   TASZAR USAREUR-F KQKB               46 24N  017 55E  160   X                7 HU
-   KAPOSJULAK       KQKH               46 23N  017 50E  145   X                7 HU
-
-DENMARK US-MIL     16-MAR-05
-   FINDERUP         KQKM               56 25N  009 18E   39   X                7 DK
-
-NETHERLANDS US-MIL 08-APR-03
-   BRUNSUMM         KQKQ               50 56N  005 59E  104   X                7 NL
-
-PORTUGAL US-MIL    08-APR-03
-   LAJES AB         KQLE               38 46N  027 06W   55   Z                7 PT
-   LAJES AB         EQYL               38 46N  027 06W   55   X     T          7 PT
-
-FRANCE US-MIL      18-MAY-11
-   ISTRES TAL SITE  KQBB               43 31N  004 55E   75   X     T          7 ES
-
-SPAIN US-MIL       08-APR-03
-   MORON AB         KQQQ               37 10N  005 37W   87   Z                7 ES
-   MORON AB         EQYM               37 10N  005 37W   87   X                7 ES
-   ROTA (NEMOD)     EQYR               33 37N  006 21W   86   X                7 ES
-   ZARAGOZA AB NASA EQYZ               41 39N  001 30W  863   X                7 ES
-
-GREECE  US-MIL     02-JAN-02
-   SOUDA BAY NAS    KQNC               35 32N  024 09E  150   X     T          7 GR
-   SOUDA BAY NAS    EQYG               35 32N  024 09E  150   X     T          7 GR
-
-ITALY   US-MIL     18-MAY-11
-   SIGONELLA NAS    KQNS               37 24N  014 56E   22   Z                7 IT
-   SIGONELLA NAS    EQYS               37 24N  014 56E   22   X     T          7 IT
-   CAPODICINO NEMOD KQNN               40 53N  014 18E   88   Z                7 IT
-   CAPODICINO NEMOD EQYN               40 53N  014 18E   88   X     T          7 IT
-   NAPLES           KQLQ               40 51N  014 17E   27   X                7 IT
-   AVIANO AB        KQHJ               46 00N  012 36E  126   X                7 IT
-   AVIANO AB        KQHK               46 00N  012 36E  126   X                7 IT
-
-ICELAND US-MIL     08-APR-03
-   KEFLAVIK NEMOD   KQNT               63 59N  022 36W   52   Z                7 IS
-   KEFLAVIK NEMOD   EQKE               63 59N  022 36W   52   X     T          7 IS
-
-MACEDONIA          08-APR-03
-   SKOPJE           KQUH               41 58N  021 38E  238   X                7 BA
-
-SAUDI ARABIA USAF  30-JUN-13
-   AL KHARJI        KQUZ               24 13N  047 56E  497   X                7 SA
-   ESKAN VILLAGE    KQAS               24 34N  046 51E    9   X                7 SA
-
-QATAR US-MIL       06-AUG-07
-   AL UDEID         KQIR               25 07N  051 19E   40   X     T          6 QA
-
-KUWAIT US-MIL      30-JUN-13
-   CAMP ARIFJAN     KQAY               28 54N  048 11E   45   X                6 KW
-   ALI AL SALEM     KQGV               29 20N  047 31E  143   X     T          6 KW
-   CAMP UDARI       KQWM               29 42N  047 26E  130   X     T          6 KW
-
-IRAQ US-MIL        30-JUN-13
-   DIWANIYAH        KQAD               31 58N  044 55E   14   X                6 IQ
-   AL MUSAYYIB FOB  KQAE               32 48N  044 27E   37   X     T          6 IQ
-   AL ASAD     ORAA KQAJ               33 46N  042 25E  188   X     T          6 IQ
-   AL TAJI     ORTI KQAQ               33 31N  044 15E   36   X     T          6 IQ
-   BAYJI            KQBJ               34 58N  043 28E  138   X                7 IQ
-   QAYYARAH W  ORQW KQCO               35 46N  043 07E  229   X                6 IQ
-   AL KUT DELTA FOB KQCQ               32 28N  045 46E   30   X     T          6 IQ
-   AL TAQADDUM ORAT KQEZ               33 19N  043 36E   84   X                6 IQ
-   BASE BERNSTEIN   KQLV               34 55N  044 28E  191   X                6 IQ
-   AL FALLUJAH      KQMA               33 19N  043 52E   47   X                6 IQ
-   ERBIL            KQNL               36 07N  043 34E  409   X                6 IQ
-   CAMP RAMADI      KQPV               33 25N  043 15E   43   X                6 IQ
-   AL SAHRA    ORSH KQSL               34 40N  043 32E  139   X     T          6 IQ
-   TALL AFAR   ORTF KQTI               36 16N  042 24E  300   X                6 IQ
-   BALAD       ORBD KQTO               33 57N  044 22E   50   X     T          6 IQ
-   MOSUL       ORBM KQTU               36 18N  043 09E  216   X     T          6 IQ
-   KIRKUK      ORKK KQTX               35 28N  044 21E  323   X     T          6 IQ
-   BAGHDAD     ORBI KQTZ               33 15N  044 14E   34   X     T          6 IQ
-   AL QAIM     ORAQ KQVO               34 16N  041 10E  232   X                6 IQ
-   TALLIL      ORTL KQXJ               30 57N  046 04E    6   X     T          6 IQ
-   CAMP VICTORY     KQAX               33 18N  044 15E   41   Z                9 IQ
-   AR RAMADI        KQCT               33 26N  043 16E   56   Z                9 IQ
-   HUSAYBAH         KQPC               34 24N  040 59E  173   Z                9 IQ
-   MOSUL NORTH      KQSE               36 14N  043 07E  247   Z                9 IQ
-   NAJAF            KQXN               31 59N  044 24E   33   Z                9 IQ
-   BASRAH           KQBS               30 34N  047 46E    2   X     T          9 IQ
-   BASRAH AIR STN   EQBR               30 33N  047 39E   20   X                9 IQ
-   FOB COBRA        KQXF               34 13N  045 08E  125   X     T          9 IQ
-   FOB WAR HORSE    KQOL               33 45N  044 36E   46   X                6 IQ
-   FOB GARY OWEN    KQXR               31 48N  047 04E    9   X                6 IQ
-   CAMP RAMADI      KQNY               33 25N  043 15E   43   Z                6 IQ
-
-AFGHANISTAN US-MIL 16-DEC-13
-   TARIN KOWT       KQA7               32 36N  065 51E 1375   X     T          6 AF
-   ASADABAD FOB     KQCC               34 51N  071 08E  841   X     T          6 AF
-   WAZA KHWA        KQCJ               32 12N  068 21E 2296   X                6 AF
-   SALERNO          KQD9               33 22N  069 58E 1149   X     T          6 AF
-   ORGUN E          KQDM               32 56N  069 09E 2268   X     T          6 AF
-   COP ARYAN        KQIU               33 07N  068 02E 2120   X     T          6 AF
-   KANDAHAR AB      KQKA               31 30N  065 50E 1014   X                6 AF
-   JALALABAD        KQL5               34 25N  070 28E  565   X     T          6 AF
-   FOB LAGMAN       KQLT               32 08N  066 54E 1616   X     T          6 AF
-   MAIMANEH         KQMH               35 55N  064 45E  831   X                6 AF
-   GARDEZ           KQOX               33 36N  069 13E 2352   X     T          6 AF
-   COP PAYNE        KQPA               30 30N  063 54E  668   X                6 AF
-   GHAZNI           KQRY               33 30N  068 24E 2168   X     T          6 AF
-   BAGRAM           KQSA               34 57N  069 17E 1487   X     T          6 AF
-   SHARANA          KQSR               33 08N  068 50E 2254   X     T          6 AF
-   FOB SHUKVANI     KQSV               32 06N  064 48E  990   X     T          6 AF
-   KANDAHAR (OAKN)  EQDK               31 28N  065 49E 1010   X                9 AF
-   KANDAHAR         KQHN               31 30N  065 51E 1008   X                9 AF
-   KABUL (OAKB)     EQAH               34 31N  069 01E 1791   X                9 AF
-   FOB WOLVERINE    KQSD               31 57N  067 02E 1896   X     T          6 AF
-   FOB SHANK        KQSN               33 56N  069 04E 2009   X     T          6 AF
-   FOB WILSON       KQWL               31 35N  065 26E  959   X                8 AF
-   FOB DWYER        KQXT               31 06N  064 05E  722   X     T          6 AF
-   FOB SHINDAND     KQA4               33 24N  062 15E 1139   X     T          6 AF
-   FARAH PRT  KQAR                     32 22N  062 11E  668   X     T          8 AF
-   C. ANACONDA KQAZ                    32 57N  066 38E 2011   X                8 AF
-   FOB STONE        KQYU               34 07N  062 13E 1102   Z                8 AF
-   QAL-E-NAW        KQQN               34 59N  063 07E  898   X     T          8 AF
-   FOB TODD         KQTD               35 36N  063 18E  450   X     T          8 AF
-   CAMP SPANN       KQSP               36 39N  066 58E  408   X                8 AF
-   CAMP MARMAL      KQML               36 42N  067 12E  381   X                8 AF
-   FOB KUNDUZ       KQLY               36 40N  068 54E  446   X                8 AF
-   KHELEGAY         KQKG               35 53N  068 48E  731   X                8 AF
-   PANJSHIR         KQD2               35 15N  069 27E 1945   X                8 AF
-   NARAY RMWS       KQVE               35 15N  071 30E 1092   X                8 AF
-   FOB KUTSCHBACH   KQDP               34 51N  069 39E 1354   X                8 AF
-   KABUL SOCCER FLD KQSF               34 32N  069 11E 1794   X                8 AF
-   FOB KALAGUSH     KQQR               34 57N  070 22E 1078   X                8 AF
-   CAMP AIRBORNE HL KQQS               34 23N  068 52E 2233   X                8 AF
-   FOB TORKHAM      KQOW               34 07N  071 03E  680   X                8 AF
-   METHAR LAM PRT   KQM1               34 40N  070 12E  797   X                8 AF
-   COP CHEROKEE     KQLD               33 39N  068 54E 2504   X                8 AF
-   FOB CONNOLLY     KQCN               34 15N  070 10E 1215   X                8 AF
-   HERRERA HLZ      KQBR               33 55N  069 42E 2162   X                8 AF
-   COP WILDERNESS   KQB6               33 22N  069 24E 2014   X                8 AF
-   FOB WARRIOR      KQC3               32 44N  067 38E 1987   X                8 AF
-   FOB FRONTENAC    KQPD               31 52N  065 50E 1135   X                8 AF
-   FOB SPIN BULDAK  KQSB               31 01N  066 24E 1224   X                8 AF
-   FOB RAMROD       KQDX               31 38N  064 57E  916   X                8 AF
-   FOB TILLMAN      KQYK               32 55N  069 27E 1814   X                8 AF
-   FOB BAYLOUGH     KQYL               32 39N  066 48E 2222   X                8 AF
-   FOB CHAMKANI     KQCK               33 48N  069 49E 1969   X                8 AF
-   VSSA WARRIOR     KQWR               32 44N  067 38E 1996   X                8 AF
-   FOB RUSHMORE     KQRU               33 10N  068 48E 2142   X                8 AF
-   FOB CLARK        KQCL               33 21N  069 44E 1383   X                8 AF
-   CAMP ARENA       KQAR               34 12N  062 13E  977   X                8 AF
-   FOB SABIT QADAM  KQSQ               32 27N  064 30E  931   X                8 AF
-
-OMAN US-MIL        30-JUN-13
-   SEEB/MUSCAT      KQGL               23 35N  058 17E    8   X                7 OM
-   MASIRAH          KQIP               20 40N  058 53E   18   X                7 OM
-   THUMRAIT         KQTH               17 40N  054 01E  465   X     T          7 OM
-   THUMRAIT         KQJL               17 40N  054 01E  479   Z                7 OM
-
-TURKMENISTAN USAF  08-APR-03
-   ASHABAD          KQGS               37 58N  058 23E  210   X                7 TM
-
-U. ARAB EMIRATES   30-JUN-13
-   AL DHAFRA        KQGX               24 15N  054 32E   23   X     T          7 AE
-
-KYRGYZSTAN US-MIL  30-JUN-13
-   BISHKEK MANAS    KQHT               43 04N  074 29E  635   X     T          7 KG
-
-PAKISTAN US-MIL    08-APR-03
-   JACOBABAD        KQJQ               28 17N  068 27E   55   X                7 PK
-
-BAHRAIN US-MIL     08-APR-03
-   BAHRAIN (NPMOF)  KQNB               26 16N  050 36E    1   X                7 BH
-
-UZBEKISTAN US-MIL  08-APR-03
-   KARSI            KQSC               38 52N  065 48E  376   X                7 UZ
-
-DJIBOUTI US-MIL    30-JUN-13
-   DIKHIL           KQDD               11 07N  042 22E  489   X                8 DJ
-   CAMP LEMONIER    KQRH               11 33N  043 10E   10   X     T          8 DJ
-
-S KOREA US-MIL     30-JUN-13
-   JINBURYYONG RWS  KQEH               38 12N  128 32E   97   X                8 KR
-   SINNAM RWS       KQEI               37 58N  128 05E  195   X                8 KR
-   BANGSAN RWS      KQEJ               38 07N  128 02E  220   X                8 KR
-   GAPYONG          KQEL               38 52N  127 31E   55   X                8 KR
-   DAEGWALLYEONG RW KQEN               37 41N  128 46E  839   X                8 KR
-   GWANGJUUP RWS    KQEP               37 23N  127 18E   73   X                8 KR
-   MUNSAN RWS       KQEQ               37 53N  126 46E   34   X                8 KR
-   GIMWA RWS        KQER               38 15N  127 25E  203   X                8 KR
-   DAESAN RWS       KQES               37 01N  126 48E   39   X                8 KR
-   YEONGJU RWS      KQET               36 52N  128 33E  215   X                8 KR
-   GONGJU RWS       KQEV               36 30N  127 12E   32   X                8 KR
-   SANGJU RWS       KQEW               36 25N  128 09E   91   X                8 KR
-   GUMI RWS         KQEX               36 07N  128 22E   42   X                8 KR
-   GEUMSAN RWS      KQEY               36 07N  127 29E  101   X                8 KR
-   CAMP STANLEY     KQFA               37 43N  127 06E   64   X                8 KR
-   MIRYANG          KQFB               35 39N  128 44E   47   X                8 KR
-   CAMP_RED_CLOUD   KQFQ               37 45N  127 02E   64   X                8 KR
-   USAG-WALKER      KQFS               35 50N  128 35E   74   X                8 KR
-   YANGSU-RI        KQFT               37 36N  127 21E   29   X                8 KR
-   GWANGJEOK        KQFU               37 49N  126 59E   76   X                8 KR
-   SACHANG          KQFV               38 04N  127 31E  158   X                8 KR
-   HONGCHEON        KQFW               37 41N  127 53E  246   X                8 KR
-   BURON            KQFX               37 12N  127 45E   94   X                8 KR
-
-JAPAN US-MIL       30-JUN-13
-   DRAUGHON RANGE   KQDG               40 42N  141 23E    5   Z                7 TR
-   ATSUGI           KQNA               35 45N  139 45E   62   X                7 TR
-
-PHILIPPINES US-MIL 13-NOV-13
-   EDWIN ANDREWS AB KQEA               06 56N  122 04E   10   X                7 PH
-   TACLOBAN         KQVA               11 14N  125 02E    3   X     T          7 PH
-   TACLOBAN         KQTA               11 14N  125 02E    3   X                7 PH
-   GUIUAN           KQGU               11 02N  125 45E    6   X                7 PH
-
-UGANDA US-MIL      30-JUN-13
-   ENTEBBE          KQUD               00 04N  032 27E 1149   X                8 UG
-
-KENYA  US-MIL      30-SEP-13
-   MANDA BAY        KQVF               02 09S  040 54E   15   X                8 KE
-   EMBAKASI         KQEB               01 18S  036 55E 1633   X                8 KE
-   LAIKAPIA AIR BAS KQLP               00 40S  036 52E 1905   X                8 KE
-
-NIGER US-MIL       30-SEP-13
-   AGADEZ           KQAZ               16 59N  007 59E  492   X                8 NE
-   KOURE VILLAGE    KQKV               13 20N  002 36E  249   X                8 NE
-
-BURKINA FASO-MIL   11-NOV-13
-   OUAGADOUGOU      KQBF               12 21N  001 31W  306   X                8 BF
-
-COLUMBIA   US-MIL  30-JUN-13
-   S JOSE D GUAVIA  KQB7               02 34N  072 37W  184   X                7 CO
-   TRES ESQUINAS    KQB9               00 45N  075 13W  178   X                7 CO
-   APIAY TMQ53      KQQY               04 04N  073 33W  377   X     T          7 CO
-   MARANDUA         KQYV               05 31N  068 40W   87   X                7 CO

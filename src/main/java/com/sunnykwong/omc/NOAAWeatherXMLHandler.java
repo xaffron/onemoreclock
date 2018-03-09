@@ -30,7 +30,7 @@ public class NOAAWeatherXMLHandler extends DefaultHandler {
 	public static boolean LOCATIONCHANGED;
 	public static String LASTUSEDCITY, LASTUSEDCOUNTRY;
 
-	public static final String URL_NOAAFORECAST = "http://forecast.weather.gov/MapClick.php?unit=0&lg=english&FcstType=dwml&lat=";
+	public static final String URL_NOAAFORECAST = "https://forecast.weather.gov/MapClick.php?unit=0&lg=english&FcstType=dwml&lat=";
 	public static HashMap<String, Integer> CONDITIONTRANSLATIONS;
 
 	public DeeperStack<String[]> tree;
